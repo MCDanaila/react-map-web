@@ -1,0 +1,55 @@
+.taxaRow {
+    padding-left: 6px; 
+    padding-top: 3px; 
+    padding-bottom: 3px;
+    background-color: #fafafa; 
+    display: flex;
+}
+
+.circle {
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+  margin-right: 3px;
+  margin-top: 3px;
+  background: #e1e1e1;
+}
+
+.circle.animal {
+  background: #D27979;
+}
+
+.circle.soil {
+  background: #CEBE7A;
+}
+
+.circle.plant {
+  background: #BCD279;
+}
+
+.circle.aquatic {
+  background: #79CAD1;
+}
+
+.content {
+  display: flex;
+}
+
+.bar1 {
+  float: left; 
+  width: 105px !important; 
+  height: 10px; 
+  background-color: #79CAD1;
+}
+
+.bar2{
+float: left; width: 24px !important; height: 10px; background-color: #CEBE7A;
+}
+
+.bar3{
+float: left; width: 11px !important; height: 10px; background-color: #BCD279;
+}
+
+.bar4{
+float: left; width: 11px !important; height: 10px; background-color: #D27979;
+}

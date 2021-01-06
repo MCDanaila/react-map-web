@@ -1,0 +1,75 @@
+.taxa_table_control_header {
+    width: 100%;
+    height: fit-content;
+    margin-bottom: 5px;
+    background-color: #f1f1f1;
+    color: #666666; /* table font color */
+    display: flex;
+    justify-content: space-between;
+}
+
+.taxa_table_control_content {
+    text-align: start;
+}
+
+.taxa_results {
+    left: 300px; 
+    border-bottom: 1px dashed #f1f1f1; 
+    border-right: 1px dashed #e1e1e1; 
+    border-left: 1px dashed #e1e1e1; 
+    position: relative;
+}
+
+.taxa_table_control {
+  border-bottom: 1px dashed #cccccc;
+  background-color: #ffffff;
+  /* position:fixed;
+  z-index: 1000;
+  width:calc(100% - 335px);
+  padding-top: 10px;
+  margin-top: -10px;
+  margin-left: -1px; */
+}
+
+.controls_button {
+    margin-left: 15px; 
+    width: 80px; 
+    text-align: center; 
+    cursor: pointer; 
+    display: inline-block; 
+    border-radius: 5px; 
+    padding-left: 6px; 
+    padding-right: 10px; 
+    padding-top: 2px; 
+    padding-bottom: 2px; 
+    margin-bottom: 5px; 
+    background: #eaeaea;
+}
+
+.arrow {
+  display: inline;
+  font-size: 9;
+  color: #a1a1a1;
+}
+
+
+.root {
+    flex-grow: 1;
+    }
+    
+.paper {
+    padding: 2;
+    text-align: center;
+    color: red;
+    
+    }
+
+.taxa_table_control_header_left {
+    padding-top: 3px;
+    padding-left: 7px;
+    font-weight: bold;
+}
+
+.taxa_table_control_header_right {
+    font-size: 12px;
+}

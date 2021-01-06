@@ -1,0 +1,11 @@
+.background {
+    opacity: 0.6; 
+    background-image: url("../../assets/logo512.png"); 
+    height: 100%; 
+    width: 100%; 
+    object-fit: contain; 
+    z-index: 1000; 
+    background-repeat:no-repeat; 
+    background-size:cover; 
+    background-position:center;
+}

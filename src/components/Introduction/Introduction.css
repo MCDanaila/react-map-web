@@ -1,0 +1,15 @@
+.introduction {
+    padding: 3px; 
+    display: flex;
+    background-color: #ffffff; 
+    width: 100%; 
+    border-bottom: 1px solid #f1f1f1; 
+    margin-bottom: 10px;
+}
+
+.introduction .text {
+    padding-left: 10px; 
+    /* float: left; */ 
+    font-size: 13px; 
+    color: #555555;
+}

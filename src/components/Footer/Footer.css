@@ -1,0 +1,54 @@
+.menu_bottom {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    border-top: 1px solid #E1E1E1;
+    font-size: 14px;
+    font-family: "Arial";
+    color: #999999;
+}
+
+.footer_table {
+    padding-right: 5px;
+    font-family: "Arial";
+    font-size: 13px;
+    color: #888888;
+}
+
+.footer_table td {
+  
+}
+
+.footer_table td.title {
+  font-family: "Arial";
+  font-size: 13px;
+  color: #888888;
+}
+
+.footer_table tr.image {
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+.footer_table tr.image:hover{
+  opacity: 0.9;
+}
+
+.footer_table a {
+  color: #888888;
+  text-decoration: none;
+}
+
+.footer_table a:hover {
+  text-decoration: none;
+  color: #000000;
+}
+
+.col {
+  text-align: justify;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  flex-grow: 0 !important;
+}
