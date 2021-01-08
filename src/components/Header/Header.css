@@ -6,19 +6,6 @@
   border-bottom: 1px solid #f1f1f1;
 }
 
-.navbar ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    text-align: justify;
-}
-
-.navbar li {
-    display: inline-block;
-    margin: 20px;
-}
-
 .navbar a {
     text-decoration: none;
     color: black;
@@ -42,9 +29,6 @@
   font-size: 1rem;
 }
 
-.nav-link {
-}
-
 .nav-link:hover {
   color: #ffffff;
   background-color: #cc5555;
@@ -52,8 +36,4 @@
 
 .navbar-brand:hover {
   color: #ffffff;
-}
-
-.navbar-collapse {
-  /* justify-content: flex-end; */
 }
