@@ -16,14 +16,14 @@ const TaxaExplorer = (props) => {
                 <div style={{ paddingLeft: '10px' }}>
                     <label className="checkbox_container">
                         Taxa without Taxonomy
-                                            <input id="check_taxa_tax" type='checkbox' onClick={() => alert("clicked")} />
+                        <input id="check_taxa_tax" type='checkbox' onClick={() => alert("clicked")} />
                         <span className="checkbox_checkmark" />
                     </label>
                 </div>
                 <div style={{ paddingLeft: '10px' }}>
                     <label className="checkbox_container">
                         Taxa without Environment
-                                            <input id="check_taxa_env" type='checkbox' onClick={() => alert("clicked")} />
+                        <input id="check_taxa_env" type='checkbox' onClick={() => alert("clicked")} />
                         <span className="checkbox_checkmark" />
                     </label>
                 </div>

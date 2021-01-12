@@ -15,20 +15,20 @@
   background: #e1e1e1;
 }
 
-.circle.animal {
-  background: #D27979;
+.animal {
+  background: #D27979 !important;
 }
 
-.circle.soil {
-  background: #CEBE7A;
+.soil {
+  background: #CEBE7A !important;
 }
 
-.circle.plant {
-  background: #BCD279;
+.plant {
+  background: #BCD279 !important;
 }
 
-.circle.aquatic {
-  background: #79CAD1;
+.aquatic {
+  background: #79CAD1 !important;
 }
 
 .content {
@@ -52,4 +52,11 @@ float: left; width: 11px !important; height: 10px; background-color: #BCD279;
 
 .bar4{
 float: left; width: 11px !important; height: 10px; background-color: #D27979;
+}
+
+
+@media screen and (max-width: 768px) {
+  .custom-class {
+    display: none !important;
+  }
 }

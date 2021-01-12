@@ -1,0 +1,34 @@
+/* Declare some variables */
+/* Define Styles */
+.current-page {
+  vertical-align: middle; 
+  line-height: 1;
+}
+
+/* Override some Bootstrap pagination styles */
+.pagination {
+  margin-top: 0;
+  margin-bottom: 0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+}
+
+.pagination li.page-item.active a.page-link {
+    color: #445565 !important;
+    background-color: #e3e7eb !important;
+    border-color: #ced4da !important; 
+}
+  
+ul.pagination a.page-link {
+    padding: 0;
+    min-width: 2.5rem;
+    text-align: center;
+    box-shadow: none !important;
+    border-color: #ced4da !important;
+    color: #6b88a4;
+    font-weight: 900;
+    font-size: 1rem; 
+}
+
+ul.pagination a.page-link:hover {
+    background-color: #f4f4f4; 
+}

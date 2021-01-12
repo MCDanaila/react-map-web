@@ -6,6 +6,7 @@
     color: #666666; /* table font color */
     display: flex;
     justify-content: space-between;
+    align-items: center
 }
 
 .taxa_table_control_content {
@@ -33,7 +34,6 @@
 
 .controls_button {
     margin-left: 15px; 
-    width: 80px; 
     text-align: center; 
     cursor: pointer; 
     display: inline-block; 
@@ -73,3 +73,14 @@
 .taxa_table_control_header_right {
     font-size: 12px;
 }
+
+.col-pad-l-r-5 {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+
+.download {
+    padding: 0 5px 0 5px !important;
+    font-size: inherit !important;
+}
+

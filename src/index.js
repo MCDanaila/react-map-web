@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 //axios.defaults.baseURL = 'https://jsonplaceholder.typicode.com';
 
-/* axios.interceptors.request.use(request => {
+axios.interceptors.request.use(request => {
   console.log(request);
   // Edit request config
   return request;
@@ -26,7 +26,7 @@ axios.interceptors.response.use(response => {
   console.log(error);
   return Promise.reject(error);
 });
- */
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

@@ -22,9 +22,31 @@ body {
   background: #ffffff; 
   /* background: #f6f6f6; */
   font-family: "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .blockquote {
   font-size: 0.9rem;
+}
+
+.card-header, .card-body {
+  padding: 0 !important;
+}
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  html {
+    font-size: 8px !important;
+  }
+  
+  .ellipsis { 
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis; 
+  } 
 }
