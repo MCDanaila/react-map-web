@@ -1,25 +1,31 @@
 import './App.css';
-import { BrowserRouter } from 'react-router-dom';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import Main from './components/Main/Main';
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import Samples from './containers/Samples/Samples';
+import Taxa from './containers/Taxa/Taxa';
+import Landing from './containers/Landing/Landing';
+import SampleGroup from './containers/SampleGroup/SampleGroup';
+import MapSeq from './containers/MapSeq/MapSeq';
+import About from './containers/About/About';
+import MiniDrawer from './pages/MiniDrawer';
+
+const router = createBrowserRouter([
+	{
+		path: '/',
+		element: <MiniDrawer />,
+		children: [
+			{ path: 'landing', element: <Landing /> },
+			{ path: 'taxa', element: <Taxa /> },
+			{ path: 'samples', element: <Samples />, },
+			{ path: 'sample-groups', element: <SampleGroup />, },
+			{ path: 'mapseq', element: <MapSeq />, },
+			{ path: 'about', element: <About />, },
+		]
+	}
+]);
 
 function App() {
-  return (
-    <BrowserRouter>
-      <div className="app">
-        <header>
-          <Header />
-        </header>
-        <main>
-          <Main />
-        </main>
-        <footer>
-          <Footer />
-        </footer>
-      </div>
-    </BrowserRouter>
-  );
+	console.log('[App.js] -> render');
+	return <RouterProvider router={router} />;
 }
 
 export default App;

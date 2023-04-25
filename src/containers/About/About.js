@@ -1,7 +1,7 @@
 import React from 'react';
 import PageContent from '../../components/PageContent';
 import taxaData200 from '../../assets/taxa_data_200.json';
-import './Taxa.css';
+import './About.css';
 import TablePaginationActions from '../../components/Pagination/TablePaginationActions';
 import TablePagination from '@mui/material/TablePagination';
 import Card from '../../components/UI/Card';
@@ -60,7 +60,7 @@ function stableSort(array, order, orderBy) {
 	});
 }
 
-const Taxa = () => {
+const About = () => {
 	const [rows, setRows] = React.useState([]);
 	const [page, setPage] = React.useState(0);
 	const [order, setOrder] = React.useState(DEFAULT_ORDER);
@@ -129,7 +129,7 @@ const Taxa = () => {
 	}
 
 	return (
-		<PageContent title='Welcome to Taxa Page !'>
+		<PageContent title='Welcome to About !'>
 			<Card style={{ display: 'block' }}>
 				<input type='text' ref={inputFilter} />
 				{ORDER_COLUMNS.map((column, index) => [
@@ -164,4 +164,4 @@ const Taxa = () => {
 	)
 }
 
-export default Taxa;
+export default About;

@@ -1,17 +1,13 @@
-import React, { Component } from 'react';
-import Aux from '../../hoc/Aux/Aux';
+import React from 'react';
 import './Landing.css';
+import PageContent from '../../components/PageContent';
 
-class Landing extends Component {
-    render() {
-        return (
-            <Aux>
-                Hi i'm landing Page!
-                <canvas className='background' id='canvas_orange' >
-                </canvas>
-            </Aux>
-        );
-    }
+const Landing = () => {
+	return (
+		<PageContent title='Welcome to Landing Page !'>
+			<canvas className='background' id='canvas_orange' />
+		</PageContent>
+	);
 }
 
 export default Landing;

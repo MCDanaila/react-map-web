@@ -1,29 +1,30 @@
-import React, { useState } from 'react';
-import { Button } from 'react-bootstrap';
+import React from 'react';
 import './OrderButton.css';
 
-export default function OrderButton(props) {
-    const [order, setOrder] = useState('');
+const OrderButton = (props) => {
+	const [order, setOrder] = React.useState(props.parentOrder);
 
-    function handleChange(event) {
-        // Here, we invoke the callback with the new value
-        if (order === '') {
-            setOrder('asc');
-        } else if (order === 'asc') {
-            setOrder('desc');
-        } else {
-            setOrder('');
-        }
-        props.onClick(event);
-    }
+	function changeOrder(event) {
+		console.log("inner changeOrder: ", event.target.value);
+		// Here, we invoke the callback with the new value
+		/* if(order === 'asc') {
+			setOrder('desc');
+		} else {
+			setOrder('asc');
+		} */
+		props.onOrderChange(event);
+	}
 
-    return (
-        <Button id={props.column} className='control' variant='outline-secondary' value={props.column.toLowerCase() + (order ? ':' + order : '')} onClick={handleChange}>
-            {props.column}  {order ?
-                (order === 'asc' ?
-                    <i class="fa fa-caret-up" aria-hidden="true" /> :
-                    (order === 'desc' ? <i class="fa fa-caret-down" aria-hidden="true" /> : null)
-                ) : null}
-        </Button>
-    );
+	return (
+		<button id={props.field} className='control'
+			variant='outline-secondary'
+			value={props.field + (order ? ':' + order : '')}
+			onClick={changeOrder}>
+			{props.text}
+			{order === 'asc' ? <i className="fa fa-caret-up" aria-hidden="true" /> :
+				order === 'desc' ? <i className="fa fa-caret-down" aria-hidden="true" /> : null}
+		</button>
+	);
 }
+
+export default OrderButton;

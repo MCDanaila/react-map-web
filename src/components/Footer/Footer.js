@@ -5,13 +5,14 @@ import logoSIB from '../../assets/media/sib_logo.png';
 import { Col, Container, Row } from 'react-bootstrap';
 
 const Footer = (props) => {
+    console.log('[Footer.js] -> render');
     return (
         <Container>
             <Row className="justify-content-md-center">
                 <Col className='col'>
                     <table className="footer_table" width='270'>
                         <tr valign='top'>
-                            <td colspan='2' className="title">
+                            <td colSpan='2' className="title">
                                 <b>MICROBEATLAS</b>
                             </td>
                         </tr>
@@ -36,7 +37,7 @@ const Footer = (props) => {
                 <Col>
                     <table border='0' className="footer_table" width='110'>
                         <tr>
-                            <td colspan='2' className="title">
+                            <td colSpan='2' className="title">
                                 <b><a href="http://www.uzh.ch">INFO</a></b>
                             </td>
                         </tr>
@@ -48,7 +49,7 @@ const Footer = (props) => {
                 <Col>
                     <table border='0' className="footer_table" width='150'>
                         <tr>
-                            <td colspan='2' className="title">
+                            <td colSpan='2' className="title">
                                 <b><a href="http://www.uzh.ch">RESOURCES</a></b>
                             </td>
                         </tr>
@@ -59,7 +60,7 @@ const Footer = (props) => {
                 <Col>
                     <table border='0' className="footer_table" width='200'>
                         <tr>
-                            <td colspan='2' className="title">
+                            <td colSpan='2' className="title">
                                 <b>VERSION</b>
                             </td>
                         </tr>

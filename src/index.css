@@ -29,6 +29,10 @@ body {
   font-size: 0.9rem;
 }
 
+.card {
+  margin-bottom: 5px;
+}
+
 .card-header, .card-body {
   padding: 0 !important;
 }

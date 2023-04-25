@@ -1,4 +1,4 @@
-.taxaRow {
+.sampleRow {
     padding-left: 6px; 
     padding-top: 3px; 
     padding-bottom: 3px;
@@ -59,11 +59,4 @@ float: left; width: 11px !important; height: 10px; background-color: #D27979;
   .custom-class {
     display: none !important;
   }
-}
-
-.dots_hide_text {
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  width: 85%;
 }

@@ -1,40 +1,32 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 import axios from 'axios';
 import 'fontsource-roboto';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
-//axios.defaults.baseURL = 'https://jsonplaceholder.typicode.com';
-
-axios.interceptors.request.use(request => {
-  console.log(request);
-  // Edit request config
-  return request;
+/* axios.interceptors.request.use(request => {
+	console.log('interceptors.request: ', request);
+	// Edit request config
+	return request;
 }, error => {
-  console.log(error);
-  return Promise.reject(error);
+	console.log('interceptors.request error:', error);
+	return Promise.reject(error);
 });
 
 axios.interceptors.response.use(response => {
-  console.log(response);
-  // Edit request config
-  return response;
+	console.log('axios.interceptors.response: ', response);
+	// Edit request config
+	return response;
 }, error => {
-  console.log(error);
-  return Promise.reject(error);
-});
+	console.log('axios.interceptors.response error: ', error);
+	return Promise.reject(error);
+}); */
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+	<React.StrictMode>
+		<App />
+	</React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

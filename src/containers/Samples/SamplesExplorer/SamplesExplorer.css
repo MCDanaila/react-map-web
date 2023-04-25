@@ -1,28 +1,42 @@
-.explorer2 {
-    position: fixed; 
-    margin-left: 10px; 
-    border: 1px solid #e1e1e1; 
-    border-radius: 4px;
+.accordion {
+  max-width: 600px;
+  margin: 2rem auto;
 }
 
-.explorer3 {
-    float: left; 
-    padding-left: 7px; 
-    padding-top: 3px;
+.accordion-title {
+	padding: 1rem;
+	display: flex;
+  	flex-direction: row;
+  	justify-content: space-between;
+  	cursor: pointer;
 }
 
-.explorer4 {
-    padding-left: 5px; padding-right: 5px; width: 270px; padding-top: 6px;
+.accordion-title:hover {
+  background-color: rgba(0, 0, 0, 0.26);
+  border-radius: 5px;
 }
 
-.explorer5 {
-    padding-left: 2px; padding-bottom: 4px; color: #888888
+.accordion-title {
+  padding: 1rem;
 }
 
-.taxa_table_header {
-    width: 100%;
-    height: 22px;
-    margin-bottom: 5px;
-    background-color: #f1f1f1;
-    color: #666666; /* table font color */
+.accordion-content {
+	
+}
+
+.accordion-item {
+	padding: 1rem;
+  	border-radius: 5px !important;
+	margin-bottom: 10px;
+  	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+@media screen and (max-width: 700px) {
+  body {
+	font-size: 18px;
+  }
+
+  .accordion {
+	width: 90%;
+  }
 }
