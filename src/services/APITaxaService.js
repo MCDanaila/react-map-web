@@ -24,6 +24,26 @@ class APITaxaService {
 		}); */
 	}
 
+	async getTaxaPag(page, rowsPerPage, order, orderBy, filter, checkedState) {
+		console.log('APITaxaService [getTaxaPag]: ', [page, rowsPerPage, order, orderBy, filter, checkedState]);
+		const config = {
+			method: 'post',
+			url: TAXA_API_REST_URL,
+			data: {
+				page: page,
+				size: rowsPerPage,
+				sortBy: orderBy,
+				sort: order,
+				text: filter ? filter : null,
+				fields: checkedState
+			},
+			headers: {
+				'Content-Type': 'application/json',
+				'Accept': 'application/json'
+			}
+		};
+		return await axios(config);
+	}
 }
 
 export default new APITaxaService();

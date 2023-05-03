@@ -1,0 +1,59 @@
+{
+	"sample_id": "DRS000427",
+	"lat": 0,
+	"lon": 0,
+	"sample_name": "DRP000317_gut metagenome from 20 korean individuals_korean gut microbiota_",
+	"sample_note": "",
+	"sample_note_raw": "",
+	"keywords_clean": "gastrointestinal tract",
+	"keywords_clean_colored": "gastrointestinal tract",
+	"rids": "DRR000776,DRR000777",
+	"sample_env": "animal",
+	"publications": [
+		{
+			"pmid": "25495462",
+			"authors": "Escobar JS,Klotz B,Valdes BE,Agudelo GM",
+			"title": "The gut microbiota of Colombians differs from that of Americans, Europeans and Asians.",
+			"year": "2014"
+		}
+	],
+	"projects": [
+		{
+			"pid": "DRP000317",
+			"title": "Gut metagenome from 20 Korean individuals",
+			"abstract": "In this study, we investigated the overall composition of the gut microbiota and its host specificity and temporal stability in 20 Koreans using 454-pyrosequencing with barcoded primers targeting the V1 to V3 region of the bacterial 16S rRNA gene.",
+			"description": ""
+		}
+	],
+	"taxa_stats": {
+		"totalcount": 863492,
+		"totalotus": 2654,
+		"otus": [
+			"90_388;96_1710;97_2047",
+			"90_217;96_789;97_918",
+			"90_217;96_1047;97_2905"
+		],
+		"otutax": [
+			"Bacteria;Firmicutes;Negativicutes;Selenomonadales;Selenomonadaceae;Megamonas",
+			"Bacteria;Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister",
+			"Bacteria;Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister"
+		],
+		"counts": [
+			14553,
+			8278,
+			7733
+		]
+	},
+	"meta": {
+		"center_name": "BioSample",
+		"alias": "SAMD00010172",
+		"TITLE": "Korean gut microbiota",
+		"TAXON_ID": "408170",
+		"SCIENTIFIC_NAME": "human gut metagenome",
+		"name": "DRS000427",
+		"sample comment": "In this study, we investigated the overall composition of the gut microbiota and its host specificity and temporal stability in 20 Koreans using 454-pyrosequencing with barcoded primers targeting the V1 to V3 region of the bacterial 16S rRNA gene.",
+		"readGroupTag": "A0_F baejw-0001_Sample_0002, A1_F baejw-0001_Sample_0003, A2_F baejw-0001_Sample_0004, B0_F baejw-0001_Sample_0005, B1_F baejw-0001_Sample_0006, B2_F baejw-0001_Sample_0007, C0_F baejw-0001_Sample_0008, C1_F baejw-0001_Sample_0009, C2_F baejw-0001_Sample_0010, D0_F baejw-0001_Sample_0011, D1_F baejw-0001_Sample_0012, D2_F baejw-0001_Sample_0013, E0_F baejw-0001_Sample_0014, E1_F baejw-0001_Sample_0015, E2_F baejw-0001_Sample_0016, F0_F baejw-0001_Sample_0017, F1_F baejw-0001_Sample_0018, F2_F baejw-0001_Sample_0019, G0_F baejw-0001_Sample_0020, G1_F baejw-0001_Sample_0021, G2_F baejw-0001_Sample_0022, H0_F baejw-0001_Sample_0023, H1_F baejw-0001_Sample_0024, H2_F baejw-0001_Sample_0025, I_F baejw-0001_Sample_0026, J_F baejw-0001_Sample_0027, K_F baejw-0001_Sample_0028, L_F baejw-0001_Sample_0029, M_F baejw-0001_Sample_0030, N_F baejw-0001_Sample_0031, O_F baejw-0001_Sample_0032, P_F baejw-0001_Sample_0033, Q_F baejw-0001_Sample_0034, R_F baejw-0001_Sample_0035, S_F baejw-0001_Sample_0036, T_F baejw-0001_Sample_0037, A0_R baejw-0001_Sample_0038, A1_R baejw-0001_Sample_0039, A2_R baejw-0001_Sample_0040, B0_R baejw-0001_Sample_0041, B1_R baejw-0001_Sample_0042, B2_R baejw-0001_Sample_0043, C0_R baejw-0001_Sample_0044, C1_R baejw-0001_Sample_0045, C2_R baejw-0001_Sample_0046, D0_R baejw-0001_Sample_0047, D1_R baejw-0001_Sample_0048, D2_R baejw-0001_Sample_0049, E0_R baejw-0001_Sample_0050, E1_R baejw-0001_Sample_0051, E2_R baejw-0001_Sample_0052, F0_R baejw-0001_Sample_0053, F1_R baejw-0001_Sample_0054, F2_R baejw-0001_Sample_0055, G0_R baejw-0001_Sample_0056, G1_R baejw-0001_Sample_0057, G2_R baejw-0001_Sample_0058, H0_R baejw-0001_Sample_0059, H1_R baejw-0001_Sample_0060, H2_R baejw-0001_Sample_0061, I_R baejw-0001_Sample_0062, J_R baejw-0001_Sample_0063, K_R baejw-0001_Sample_0064, L_R baejw-0001_Sample_0065, M_R baejw-0001_Sample_0066, N_R baejw-0001_Sample_0067, O_R baejw-0001_Sample_0068, P_R baejw-0001_Sample_0069, Q_R baejw-0001_Sample_0070, R_R baejw-0001_Sample_0071, S_R baejw-0001_Sample_0072, T_R baejw-0001_Sample_0073",
+		"proportion": "baejw-0001_Sample_0002, baejw-0001_Sample_0003, baejw-0001_Sample_0004, baejw-0001_Sample_0005, baejw-0001_Sample_0006, baejw-0001_Sample_0007, baejw-0001_Sample_0008, baejw-0001_Sample_0009, baejw-0001_Sample_0010, baejw-0001_Sample_0011, baejw-0001_Sample_0012, baejw-0001_Sample_0013, baejw-0001_Sample_0014, baejw-0001_Sample_0015, baejw-0001_Sample_0016, baejw-0001_Sample_0017, baejw-0001_Sample_0018, baejw-0001_Sample_0019, baejw-0001_Sample_0020, baejw-0001_Sample_0021, baejw-0001_Sample_0022, baejw-0001_Sample_0023, baejw-0001_Sample_0024, baejw-0001_Sample_0025, baejw-0001_Sample_0026, baejw-0001_Sample_0027, baejw-0001_Sample_0028, baejw-0001_Sample_0029, baejw-0001_Sample_0030, baejw-0001_Sample_0031, baejw-0001_Sample_0032, baejw-0001_Sample_0033, baejw-0001_Sample_0034, baejw-0001_Sample_0035, baejw-0001_Sample_0036, baejw-0001_Sample_0037, baejw-0001_Sample_0038, baejw-0001_Sample_0039, baejw-0001_Sample_0040, baejw-0001_Sample_0041, baejw-0001_Sample_0042, baejw-0001_Sample_0043, baejw-0001_Sample_0044, baejw-0001_Sample_0045, baejw-0001_Sample_0046, baejw-0001_Sample_0047, baejw-0001_Sample_0048, baejw-0001_Sample_0049, baejw-0001_Sample_0050, baejw-0001_Sample_0051, baejw-0001_Sample_0052, baejw-0001_Sample_0053, baejw-0001_Sample_0054, baejw-0001_Sample_0055, baejw-0001_Sample_0056, baejw-0001_Sample_0057, baejw-0001_Sample_0058, baejw-0001_Sample_0059, baejw-0001_Sample_0060, baejw-0001_Sample_0061, baejw-0001_Sample_0062, baejw-0001_Sample_0063, baejw-0001_Sample_0064, baejw-0001_Sample_0065, baejw-0001_Sample_0066, baejw-0001_Sample_0067, baejw-0001_Sample_0068, baejw-0001_Sample_0069, baejw-0001_Sample_0070, baejw-0001_Sample_0071, baejw-0001_Sample_0072, baejw-0001_Sample_0073",
+		"memberName": "Korean gut microbiota Sample A0 Forward baejw-0001_Sample_0002, Korean gut microbiota Sample A1 Forward baejw-0001_Sample_0003, Korean gut microbiota Sample A2 Forward baejw-0001_Sample_0004, Korean gut microbiota Sample B0 Forward baejw-0001_Sample_0005, Korean gut microbiota Sample B1 Forward baejw-0001_Sample_0006, Korean gut microbiota Sample B2 Forward baejw-0001_Sample_0007, Korean gut microbiota Sample C0 Forward baejw-0001_Sample_0008, Korean gut microbiota Sample C1 Forward baejw-0001_Sample_0009, Korean gut microbiota Sample C2 Forward baejw-0001_Sample_0010, Korean gut microbiota Sample D0 Forward baejw-0001_Sample_0011, Korean gut microbiota Sample D1 Forward baejw-0001_Sample_0012, Korean gut microbiota Sample D2 Forward baejw-0001_Sample_0013, Korean gut microbiota Sample E0 Forward baejw-0001_Sample_0014, Korean gut microbiota Sample E1 Forward baejw-0001_Sample_0015, Korean gut microbiota Sample E2 Forward baejw-0001_Sample_0016, Korean gut microbiota Sample F0 Forward baejw-0001_Sample_0017, Korean gut microbiota Sample F1 Forward baejw-0001_Sample_0018, Korean gut microbiota Sample F2 Forward baejw-0001_Sample_0019, Korean gut microbiota Sample G0 Forward baejw-0001_Sample_0020, Korean gut microbiota Sample G1 Forward baejw-0001_Sample_0021, Korean gut microbiota Sample G2 Forward baejw-0001_Sample_0022, Korean gut microbiota Sample H0 Forward baejw-0001_Sample_0023, Korean gut microbiota Sample H1 Forward baejw-0001_Sample_0024, Korean gut microbiota Sample H2 Forward baejw-0001_Sample_0025, Korean gut microbiota Sample I Forward baejw-0001_Sample_0026, Korean gut microbiota Sample J Forward baejw-0001_Sample_0027, Korean gut microbiota Sample K Forward baejw-0001_Sample_0028, Korean gut microbiota Sample L Forward baejw-0001_Sample_0029, Korean gut microbiota Sample M Forward baejw-0001_Sample_0030, Korean gut microbiota Sample N Forward baejw-0001_Sample_0031, Korean gut microbiota Sample O Forward baejw-0001_Sample_0032, Korean gut microbiota Sample P Forward baejw-0001_Sample_0033, Korean gut microbiota Sample Q Forward baejw-0001_Sample_0034, Korean gut microbiota Sample R Forward baejw-0001_Sample_0035, Korean gut microbiota Sample S Forward baejw-0001_Sample_0036, Korean gut microbiota Sample T Forward baejw-0001_Sample_0037, Korean gut microbiota Sample A0 Reverse baejw-0001_Sample_0038, Korean gut microbiota Sample A1 Reverse baejw-0001_Sample_0039, Korean gut microbiota Sample A2 Reverse baejw-0001_Sample_0040, Korean gut microbiota Sample B0 Reverse baejw-0001_Sample_0041, Korean gut microbiota Sample B1 Reverse baejw-0001_Sample_0042, Korean gut microbiota Sample B2 Reverse baejw-0001_Sample_0043, Korean gut microbiota Sample C0 Reverse baejw-0001_Sample_0044, Korean gut microbiota Sample C1 Reverse baejw-0001_Sample_0045, Korean gut microbiota Sample C2 Reverse baejw-0001_Sample_0046, Korean gut microbiota Sample D0 Reverse baejw-0001_Sample_0047, Korean gut microbiota Sample D1 Reverse baejw-0001_Sample_0048, Korean gut microbiota Sample D2 Reverse baejw-0001_Sample_0049, Korean gut microbiota Sample E0 Reverse baejw-0001_Sample_0050, Korean gut microbiota Sample E1 Reverse baejw-0001_Sample_0051, Korean gut microbiota Sample E2 Reverse baejw-0001_Sample_0052, Korean gut microbiota Sample F0 Reverse baejw-0001_Sample_0053, Korean gut microbiota Sample F1 Reverse baejw-0001_Sample_0054, Korean gut microbiota Sample F2 Reverse baejw-0001_Sample_0055, Korean gut microbiota Sample G0 Reverse baejw-0001_Sample_0056, Korean gut microbiota Sample G1 Reverse baejw-0001_Sample_0057, Korean gut microbiota Sample G2 Reverse baejw-0001_Sample_0058, Korean gut microbiota Sample H0 Reverse baejw-0001_Sample_0059, Korean gut microbiota Sample H1 Reverse baejw-0001_Sample_0060, Korean gut microbiota Sample H2 Reverse baejw-0001_Sample_0061, Korean gut microbiota Sample I Reverse baejw-0001_Sample_0062, Korean gut microbiota Sample J Reverse baejw-0001_Sample_0063, Korean gut microbiota Sample K Reverse baejw-0001_Sample_0064, Korean gut microbiota Sample L Reverse baejw-0001_Sample_0065, Korean gut microbiota Sample M Reverse baejw-0001_Sample_0066, Korean gut microbiota Sample N Reverse baejw-0001_Sample_0067, Korean gut microbiota Sample O Reverse baejw-0001_Sample_0068, Korean gut microbiota Sample P Reverse baejw-0001_Sample_0069, Korean gut microbiota Sample Q Reverse baejw-0001_Sample_0070, Korean gut microbiota Sample R Reverse baejw-0001_Sample_0071, Korean gut microbiota Sample S Reverse baejw-0001_Sample_0072, Korean gut microbiota Sample T Reverse baejw-0001_Sample_0073"
+	}
+}

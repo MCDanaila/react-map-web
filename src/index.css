@@ -1,13 +1,15 @@
-*,
-*:before,
-*:after {
-  box-sizing: border-box;
+/*.dots_hide_text {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 85%;
 }
 
-html {
-  font-size: 100%;
-}
-
+ .ellipsis { 
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis; 
+}  */
 html,
 body {
   min-height: 100%;
@@ -19,22 +21,65 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  background: #ffffff; 
+  background: #f1f1f1; 
   /* background: #f6f6f6; */
   font-family: "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 12px;
 }
 
-.blockquote {
-  font-size: 0.9rem;
+.link {
+	/* border: 1px solid; */
+	color: black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.link:hover {
+	background-color: aliceblue;
 }
 
-.card {
-  margin-bottom: 5px;
+.empty {
+	/* background: #e1e1e166 !important; */
+	border: #e1e1e1 solid 2px;
+}
+.empty:hover {
+	/* background: #e1e1e1 !important; */
+	box-shadow:none;
 }
 
-.card-header, .card-body {
-  padding: 0 !important;
+.animal {
+  /* background: #D2797966 !important; */
+  border: #D27979 solid 2px;
+}
+.animal:hover{
+	/* background: #D27979 !important; */
+	box-shadow:none;
+}
+
+.soil {
+  /* background: #CEBE7A66 !important; */
+  border: #CEBE7A solid 2px;
+}
+.soil:hover {
+  /* background: #CEBE7A !important; */
+  box-shadow:none;
+}
+
+.plant {
+  /* background: #BCD27980 !important; */
+  border: #BCD279 solid 2px;
+}
+.plant:hover {
+  /* background: #BCD279 !important; */
+  box-shadow:none;
+}
+
+.aquatic {
+  /* background: #79CAD166 !important; */
+  border: #79CAD1 solid 2px;
+}
+.aquatic:hover {
+  /* background: #79CAD1 !important; */
+  box-shadow:none;
 }
 
 @media screen and (max-width: 768px) {
@@ -47,10 +92,4 @@ body {
   html {
     font-size: 8px !important;
   }
-  
-  .ellipsis { 
-    overflow: hidden; 
-    white-space: nowrap; 
-    text-overflow: ellipsis; 
-  } 
 }
