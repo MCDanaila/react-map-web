@@ -16,7 +16,7 @@ const SortButtonGroup = ({ sortButtons, callbackHandle }) => {
 		<Box sx={{ '& button': { m: 0.5, mb: 0 }, 'marginBottom': 1 }}>
 			<ToggleButtonGroup
 				size="small"
-				color="primary"
+				color="secondary"
 				value={sorting}
 				exclusive
 				onChange={handleChange}

@@ -20,6 +20,7 @@ const OrderButton = (props) => {
 
 	return (
 		<Button style={{ backgroundColor: 'white' }} id={props.field} size='small'
+			color='secondary'
 			variant='outlined'
 			value={props.field + (order ? ':' + order : '')}
 			onClick={() => props.onOrderChange(valueOrder)}>
