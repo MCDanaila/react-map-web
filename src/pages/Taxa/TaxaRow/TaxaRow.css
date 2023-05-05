@@ -6,15 +6,6 @@
     display: flex;
 }
 
-.circle {
-  width: 12px;
-  height: 12px;
-  border-radius: 6px;
-  margin-right: 3px;
-  margin-top: 3px;
-  background: #e1e1e1;
-}
-
 .content {
   display: flex;
 }
