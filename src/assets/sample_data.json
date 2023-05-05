@@ -1,0 +1,765 @@
+{
+	"data": [
+		{
+			"rank_score": 1,
+			"taxon_id": "90_16",
+			"short_tid": "90_16",
+			"taxa_name": "Lachnospiraceae",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales;Lachnospiraceae",
+			"ref_genomes": "Faecalicatena contorta (2789STDY5834876:NZ_CYZU01000015,:NZ_CABKUE010000005,1001302B160321D10:NZ_JADNFP010000098),Eubacterium sp. (SB2:NZ_LN865149,BIOML-A2:NZ_WKZK01000056,BIOML-A1:NZ_WKZL01000123,am0171:NZ_RCYI01000141,BSD2780061688b171218H5:NZ_JADMRI010000049,ER2:NZ_JPJE01000069),Clostridium sp. (D5:NZ_GL870827,Marseille-P2538:NZ_FLKL01000002,FS41:NZ_JYHN01000039,Marseille-P3244:NZ_LT635548,7354FAA:NZ_JH376533,ASBs410:NZ_JFBV01000001,Marseille-P2415:NZ_LT732526,12A:NZ_JAGI01000002,M62/1:NZ_GG730316,KLE1755:NZ_KE992700,AF37-7:NZ_QUDP01000057,AM48-13:NZ_QUFD01000061,AF22-10:NZ_QUFZ01000069,OF13-4:NZ_QULZ01000044,AM43-3BH:NZ_QUIH01000007,OM05-5BH:NZ_QULJ01000001,TF11-13AC:NZ_QUKJ01000017,TF06-15AC:NZ_QUKS01000002,AF20-7:NZ_QUGF01000001,AF12-41:NZ_QTXO01000006,AM18-55:NZ_QUCO01000056,AF32-7AC:NZ_QUEG01000010,OM04-7:NZ_QULL01000026,AF27-5AA:NZ_QUFH01000011,AF02-29:NZ_QUHX01000004,AM27-28:NZ_QUJT01000001,AF50-3:NZ_QUDH01000034,AF21-20LB:NZ_QUGD01000058,AF29-8BH:NZ_QUEL01000058,AF19-22AC:NZ_QUGN01000060,BSD2780061688st1H5:NZ_SPGT01000049),Faecalicatena fissicatena (KCTC15010:NZ_LDAQ01000152,MSK.14.47:NZ_JAAWUX010000018),Lachnobacterium bovis (DSM14045:NZ_FNPG01000002,S1b:NZ_FOGW01000003,AE2004:NZ_JHWB01000009),Coprococcus sp. (HPP0048:NZ_KE150442,HPP0074:NZ_KE150436,AM25-15LB:NZ_QVGH01000004,AF27-8:NZ_QVGR01000014,AM25-4LB:NZ_QVHD01000007,AF18-48:NZ_QTMK01000005,AM27-12LB:NZ_QTNN01000016),Lachnoclostridium phocaeense (Marseille-P3177:NZ_LT635479),[Ruminococcus] torques (2789STDY5608833:NZ_CZBR01000024,2789STDY5608867:NZ_CZBS01000001,2789STDY5834889:NZ_CZBX01000002,2789STDY5834841:NZ_CYZO01000012,ATCC27756:NZ_DS264347,:NZ_CABHNA010000090,:NZ_CABJEY010000001),Ruminococcus sp. (5139BFAA:NZ_ACII02000001,OM08-13A:NZ_QTZB01000019,OF05-2BH:NZ_QTZL01000014,AF25-3LB:NZ_QTWE01000131,AM41-2AC:NZ_QTXX01000005,TF10-12AC:NZ_QTYX01000014,AM29-19LB:NZ_QTYJ01000009,AM33-14:NZ_QTYE01000055,OM07-7:NZ_QTZD01000016,AF27-3:NZ_QTVY01000005,AF27-11AA:NZ_QTWB01000006,AF25-17:NZ_QTWG01000138,AF19-4LB:NZ_QTWQ01000009,TF10-6:NZ_QUSO01000015,AM29-10LB:NZ_QTYK01000009,AM16-34:NZ_QTUR01000007,AF27-12AA:NZ_QTWA01000075,AM29-1:NZ_QTYL01000007,AF25-13:NZ_QTWH01000048,OM04-4AA:NZ_QTZH01000153,AF31-14BH:NZ_QTVO01000017,AM49-8:NZ_QTVW01000010,AM49-10BH:NZ_QTVX01000004,AM29-5AC:NZ_QTYH01000039,AM22-14LB:NZ_QTUP01000019,AM09-18-1:NZ_QTUX01000009,AM27-27:NZ_QTYP01000001,AM27-11LB:NZ_QTYQ01000027),[Ruminococcus] gnavus (ATCC29149:NZ_AAYG02000024,2789STDY5608852:NZ_CYZG01000006,AGR2154:NZ_JAGQ01000002,CC55001C:NZ_KI669416),Dorea sp. (D27:NZ_KQ236749,5-2:NZ_KE159723,AM58-8:NZ_QSDM01000042,AF36-15A:NZ_QUDV01000007),Dorea formicigenerans (ATCC27755:NZ_AAXA02000006,4653AFAA:NZ_JH126530),Dorea longicatena (2789STDY5608851:NZ_CYYM01000040,2789STDY5608866:NZ_CYYY01000010,DSM13814:NZ_DS264394),Blautia sp. (YL58:NZ_CP015405,Marseille-P3087:NZ_LT635539,Marseille-P3201:NZ_LT635469),[Ruminococcus] lactaris (ATCC29176:NZ_DS990170,CC59002D:NZ_KI669411),Blautia obeum (2789STDY5834921:NZ_CZBA01000012,ATCC29174:NZ_DS264307,2789STDY5608837:NZ_CYZD01000006),Sellimonas intestinalis (BR72:NZ_LGAJ01000018),[Clostridium] citroniae (WAL-17108:NZ_JH376438,WAL-19142:NZ_KQ235885),Lachnoclostridium sp. (YL32:NZ_CP015399,An118:NZ_NFLQ01000047),[Clostridium] clostridioforme (2149FAA:NZ_JH376892,CM201:NZ_KB850936,90B1:NZ_KB850966,90A8:NZ_KB850985,90A6:NZ_KB851029,90A3:NZ_KB851053,90A4:NZ_KB851068,90A1:NZ_KB851121,WAL-7855:NZ_KQ235944,90A7:NZ_KB851048),[Clostridium] bolteae (ATCCBAA-613:NZ_DS480694,90B7:NZ_KB851170,90B3:NZ_KB851178,90A9:NZ_KB851182,90A5:NZ_KB851187,WAL-14578:NZ_KQ235850),Lachnospira pectinoschiza (M83:NZ_FNHZ01000012,2789STDY5834886:NZ_CZAK01000017,2789STDY5834836:NZ_CZBT01000006),Roseburia hominis (A2-183:NC_015977),Roseburia intestinalis (2789STDY5834960:NZ_CYXZ01000084),Eubacterium ramulus (2789STDY5608891:NZ_CYYA01000009,ATCC29099:NZ_KI271105),Hungatella hathewayi (12489931:NZ_KB850951,2789STDY5608850:NZ_CYZE01000004,2789STDY5834916:NZ_CZAZ01000082,WAL-18680:NZ_JH379032,AF19-21:NZ_QVIA01000010),Blautia massiliensis (GD8:NZ_LN913006),Blautia hydrogenotrophica (2789STDY5608857:NZ_CYXL01000005,DSM10507:NZ_GG657694),Hespellia stercorisuis (DSM15480:NZ_FQZY01000002),Roseburia sp. (499:NZ_MJID01000001,831b:NZ_MJHW01000010,1XD42-69:NZ_RAZG01000130),[Eubacterium] eligens (ATCC27750:NC_012778),Lachnospira eligens (2789STDY5834875:NZ_CZBU01000013,2789STDY5834878:NZ_CZBV01000019),Robinsoniella peoriensis (:NZ_FMJR01000011,W:NZ_JTGN01000001),Robinsoniella sp. (KNHs210:NZ_JMLZ01000002),Eubacterium ventriosum (ATCC27560:NZ_DS264268),Marvinbryantia formatexigens (DSM14469:NZ_ACCL02000018,I-52:NZ_FNBY01000022),[Clostridium] symbiosum (2789STDY5834864:NZ_CYZY01000014,WAL-14163:NZ_GL834329,WAL-14673:NZ_GL834374,ATCC14940:NZ_KE992869),Schaedlerella arabinosiphila (ASF502:NZ_KB822463),Roseburia faecis (M72:NZ_CVRR01000056,2789STDY5608863:NZ_CYXV01000011),[Clostridium] methoxybenzovorans (SR3:NZ_ATXD01000006),[Clostridium] indolis (DSM755:NZ_AZUI01000001),[Clostridium] saccharolyticum (WM1:NC_014376),Lacrimispora celerecrescens (152B:NZ_JPME01000066),Fusicatenibacter saccharivorans (2789STDY5608849:NZ_CYYV01000001,2789STDY5834885:NZ_CZAL01000009,2789STDY5834923:NZ_CZBB01000008),Lactonifactor longoviformis (DSM17459:NZ_FQVI01000073),Bariatricus massiliensis (AT12:NZ_LT574835),Kineothrix alysoides (KNHs209:NZ_JPNB01000001),Coprococcus phoceensis (Marseille-P3062:NZ_FNWC01000005),Coprococcus comes (2789STDY5608832:NZ_CYYN01000006,2789STDY5834866:NZ_CYZK01000040,2789STDY5834913:NZ_CZAX01000013),Roseburia inulinivorans (2789STDY5608835:NZ_CYYR01000011),Mediterraneibacter massiliensis (Marseille-P2086:NZ_LN913000),[Clostridium] scindens (ATCC35704:NZ_DS499685),Eisenbergiella tayi (NML110678:NZ_MEHB01000041,NML140904:NZ_MEHC01000048,NML120146:NZ_MEHD01000002,NML120147:NZ_MEHE01000012,NML110608:NZ_MCGH01000002),Pseudobutyrivibrio ruminis (HUN009:NZ_JNLH01000001,ACV-9:NZ_FNZX01000002),Clostridium fessum (SNUG30386:NZ_PYLO01000012),Coprococcus catus (AF45-17:NZ_QVEP01000088,AM28-39:NZ_QVFD01000001),Faecalicatena orotica (:NZ_CABJCL010000060),Faecalicatena sp. (AGMB00832:NZ_JABACJ010000429),Faecalimonas umbilicata (EGH7:NZ_BHEO01000002,DSM103426:NZ_SLZV01000063),Mediterraneibacter faecis (1001285H161024C3:NZ_JADPLP010000034,1001713B170131170501C12:NZ_JADPGD010000045,D59t2181005E7:NZ_JADPGZ010000037,BIOML-A1:NZ_WNAF01000001)",
+			"num_typestrains": 146,
+			"typestrains": "Faecalicatena contorta JCM6483 (LC071803) [\"Catenabacterium contortum\" Prevot 1947,Eubacterium contortum (Prevot 1947) Holdeman et al. 1971 (Approved Lists 1980),Faecalicatena contorta (Prevot 1947) Sakamoto et al. 2017],Faecalicatena orotica JCM1429 (AB818947) [Clostridium oroticum (Wachsman and Barker 1954) Cato et al. 1968 (Approved Lists 1980),Faecalicatena orotica (Wachsman and Barker 1954) Sakamoto et al. 2017,\"Zymobacterium oroticum\" Wachsman and Barker 1954],Lachnobacterium bovis DSM14045 (NZ_FNPG01000002) [Lachnobacterium bovis Whitford et al. 2001],Lachnoclostridium phocaeense Marseille-P3177 (NZ_LT635479) [\"Lachnoclostridium phocaeense\" Brahimi et al. 2017],[Ruminococcus] gnavus ATCC29149 (NZ_AAYG02000024) [Ruminococcus gnavus Moore et al. 1976],Extibacter muris 40cc-B-5824-ARE (KR364761) [Extibacter muris Lagkouvardos et al. 2017],Dorea formicigenerans ATCC27755 (NZ_AAXA02000006) [Dorea formicigenerans (Holdeman and Moore 1974) Taras et al. 2002,Eubacterium formicigenerans Holdeman and Moore 1974 (Approved Lists 1980)],Dorea longicatena DSM13814 (NZ_DS264394) [Dorea longicatena Taras et al. 2002],Blautia coccoides JCM1395 (AB571656) [Blautia coccoides (Kaneuchi et al. 1976) Liu et al. 2008,Clostridium coccoides Kaneuchi et al. 1976 (Approved Lists 1980)],[Ruminococcus] lactaris ATCC29176 (NZ_DS990170) [Ruminococcus lactaris Moore et al. 1976],Blautia obeum ATCC29174 (NZ_DS264307) [Blautia obeum (Moore et al. 1976) Lawson and Finegold 2015,Ruminococcus obeum Moore et al. 1976 (Approved Lists 1980)],Sellimonas intestinalis BR72 (NZ_LGAJ01000018) [Sellimonas intestinalis Seo et al. 2016],Enterocloster citroniae RMA16102 (DQ279737) [Clostridium citroniae Warren et al. 2007,Enterocloster citroniae (Warren et al. 2007) Haas and Blanchard 2020],[Clostridium] bolteae ATCCBAA-613 (NZ_DS480694) [Clostridium bolteae Song et al. 2003,Enterocloster bolteae (Song et al. 2003) Haas and Blanchard 2020],Roseburia hominis A2-183 (NC_015977) [Roseburia hominis Duncan et al. 2006],[Eubacterium] rectale DSM17629 (FP929042) [Agathobacter rectalis (Hauduroy et al. 1937) Rosero et al. 2016,\"Bacteroides rectalis\" Hauduroy et al. 1937,Eubacterium rectale (Hauduroy et al. 1937) Prevot 1938,\"Pseudobacterium rectale\" (Hauduroy et al. 1937) Krasil'nikov 1949],Eubacterium ramulus ATCC29099 (NZ_KI271105) [Eubacterium ramulus Moore et al. 1976],Falcatimonas natans WN011 (AB298726) [Falcatimonas natans Watanabe et al. 2016],Blautia hydrogenotrophica DSM10507 (NZ_GG657694) [Blautia hydrogenotrophica (Bernalier et al. 1997) Liu et al. 2008,Ruminococcus hydrogenotrophicus Bernalier et al. 1997],Hespellia stercorisuis DSM15480 (NZ_FQZY01000002) [Hespellia stercorisuis Whitehead et al. 2004],[Eubacterium] eligens ATCC27750 (NC_012778) [Eubacterium eligens Holdeman and Moore 1974,Lachnospira eligens (Holdeman and Moore 1974) Garcia-Lopez et al. 2020],[Ruminococcus] torques ATCC27756 (NZ_DS264347) [Ruminococcus torques Holdeman and Moore 1974],Robinsoniella peoriensis PPC31 (AF445285) [Robinsoniella peoriensis Cotta et al. 2009],Eubacterium ventriosum ATCC27560 (NZ_DS264268) [\"Bacillus ventriosus\" Tissier 1908,\"Bacteroides ventriosus\" (Tissier 1908) Eggerth 1935,Eubacterium ventriosum (Tissier 1908) Prevot 1938,\"Pseudobacterium ventriosum\" (Tissier 1908) Krasil'nikov 1949],Marvinbryantia formatexigens I-52 (AJ318527) [Bryantella formatexigens Wolin et al. 2004,Marvinbryantia formatexigens (Wolin et al. 2004) Wolin et al. 2008],[Clostridium] symbiosum ATCC14940 (NZ_KE992869) [\"Bacteroides symbiosus\" Stevens 1956,Clostridium symbiosum (Stevens 1956) Kaneuchi et al. 1976],Roseburia faecis M72 (NZ_CVRR01000056) [Roseburia faecis Duncan et al. 2006],[Clostridium] methoxybenzovorans DSM12182 (AF067965) [Clostridium methoxybenzovorans Mechichi et al. 1999],[Clostridium] indolis DSM755 (NZ_AZUI01000001) [Clostridium indolis McClung and McCoy 1957,Lacrimispora indolis McClung and McCoy 1957) Haas and Blanchard 2020],[Clostridium] saccharolyticum WM1 (NC_014376) [Clostridium saccharolyticum Murray et al. 1982,Lacrimispora saccharolytica (Murray et al. 1982) Haas and Blanchard 2020],Lacrimispora amygdalina BR-10 (AY353957) [Clostridium amygdalinum Parshina et al. 2003,Lacrimispora amygdalina (Parshina et al. 2003) Haas and Blanchard 2020],Lacrimispora algidixylanolytica SPL73 (AF092549) [Clostridium algidixylanolyticum Broda et al. 2000,Lacrimispora algidixylanolytica (Broda et al. 2000) Haas and Blanchard 2020],Frisingicoccus caecimuris PG-426-CC-1 (KR364774) [Frisingicoccus caecimuris Lagkouvardos et al. 2016],Anaerosacchriphilus polymeriproducens MCWD5 (KU886099) [Anaerosacchariphilus polymeriproducens Kim et al. 2019],Lactonifactor longoviformis ED-Mt61/PYG-s6 (DQ100449) [Lactonifactor longoviformis Clavel et al. 2007],Bariatricus massiliensis AT12 (NZ_LT574835) [\"Bariatricus massiliensis\" Bessis et al. 2016],Kineothrix alysoides KNHs209 (KX356505) [Kineothrix alysoides Haas and Blanchard 2017],Coprococcus phoceensis Marseille-P3062 (NZ_FNWC01000005) [\"Coprococcus phoceensis\" Bonnet et al. 2019],Lachnoclostridium pacaense Marseille-P3100 (LT631510) [\"Clostridium pacaense\" Hosny et al. 2019,\"Lachnoclostridium pacaense\" Pham et al. 2017],Enterocloster aldensis RMA9741 (DQ279736) [Clostridium aldenense Warren et al. 2007,Enterocloster aldenensis corrig. (Warren et al. 2007) Haas and Blanchard 2020,Enterocloster aldensis (sic) (Warren et al. 2007) Haas and Blanchard 2020],Mediterraneibacter massiliensis Marseille-P2086 (NZ_LN913000) [\"Mediterraneibacter massiliensis\" Togo et al. 2018,Mediterraneibacter massiliensis Togo et al. 2019],Eubacterium oxidoreducens DSM3217 (FR733672) [Eubacterium oxidoreducens corrig. Krumholz and Bryant 1986],Catenibacillus scindens CG19-1 (FJ711049) [],Cuneatibacter caecimuris BARN-424-CC-10 (KR364760) [Cuneatibacter caecimuris Lagkouvardos et al. 2016],Blautia caecimuris SJ18 (KR364746) [Blautia caecimuris Lagkouvardos et al. 2016],[Clostridium] scindens ATCC35704 (NZ_DS499685) [Clostridium scindens Morris et al. 1985],Agathobacter ruminis JK623 (KT229569) [Agathobacter ruminis Rosero et al. 2016],Blautia glucerasea JCM17039 (AB588023) [Blautia glucerasea corrig. Furuya et al. 2010,\"Blautia glucerasei\" Furuya et al. 2010],Muricomes intestini 2PG-424-CC-1 (KR364770) [Muricomes intestini Lagkouvardos et al. 2016],Clostridium fessum SNUG30386 (NZ_PYLO01000012) [Clostridium fessum Seo et al.],Faecalicatena fissicatena DSM3598 (FR749937) [Eubacterium fissicatena Taylor 1972 (Approved Lists 1980),Faecalicatena fissicatena (Taylor 1972) Sakamoto et al. 2017],Faecalimonas umbilicata EGH7 (NZ_BHEO01000002) [Faecalimonas umbilicata Sakamoto et al. 2017],[Ruminococcus] faecis Eg2 (FJ611794) [\"Mediterraneibacter faecis\" (Kim et al. 2011) Togo et al. 2018,Mediterraneibacter faecis (Kim et al. 2011) Togo et al. 2019,Ruminococcus faecis Kim et al. 2011],Blautia wexlerae DSM19850 (NR_044054) [Blautia wexlerae Liu et al. 2008],Roseburia sp. MUC/MUC-530-WT-4D (NZ_VUNI01000057) [\"Roseburia porci\" Wylensek et al. 2020],Clostridium sp. WCA-389-WT-23D1 (NZ_VUMD01000060) [\"Clostridium porci\" Wylensek et al. 2020],Blautia hominis KB1 (KY703632) [Blautia hominis Shin et al. 2018],Blautia marasmi Marseille-P2377 (NZ_OIWX01000001) [\"Blautia marasmi\" Pham et al. 2017],Blautia producta ATCC27340 (NR_119217) [Blautia producta (Prevot 1941) Liu et al. 2008,Peptostreptococcus productus (Prevot 1941) Smith 1957 (Approved Lists 1980),Ruminococcus productus (Prevot 1941) Ezaki et al. 1994,\"Streptococcus productus\" Prevot 1941],Drancourtella massiliensis GD1 (NR_144722) [\"Drancourtella massiliensis\" Durand et al. 2016],Enterocloster lavalensis CCRI-9842 (NR_044289) [Clostridium lavalense Domingo et al. 2009,Enterocloster lavalensis (Domingo et al. 2009) Haas and Blanchard 2020],[Clostridium] asparagiforme DSM15981 (NZ_GG657593) [Clostridium asparagiforme Mohan et al. 2007,Enterocloster asparagiformis (Mohan et al. 2007) Haas and Blanchard 2020],Enterocloster clostridioformis NCTC11224 (NZ_UAVW01000001) [\"Bacterium clostridiiforme\" Burri and Ankersmit 1906,\"Bacteroides clostridiiformis\" (Burri and Ankersmit 1906) Holdeman and Moore 1970,\"Eggerthella clostridiiformis\" (Burri and Ankersmit 1906) Beerens et al. 1962,Enterocloster clostridioformis (Burri and Ankersmit 1906) Haas and Blanchard 2020,\"Ristella clostridiiformis\" (Burri and Ankersmit 1906) Prevot 1938],Lachnoclostridium urinimassiliense Marseille-P2804 (LT576406) [\"Lachnoclostridium urinimassiliense\" Brahimi et al. 2017],Lachnospira multipara D32 (NR_104758) [Lachnospira multiparis (sic) Bryant and Small 1956 (Approved Lists 1980) Bryant and Small 1956],Blautia faecicola KGMB01111 (NR_170495) [Blautia faecicola Kim et al. 2020],Blautia stercoris GAM6-1 (HM626177) [Blautia stercoris Park et al. 2012],Massilistercora timonensis Marseille-P3756 (NZ_LT990039) [\"Massilistercora timonensis\" Tall et al.],Roseburia intestinalis L1-82 (NR_027557) [Roseburia intestinalis Duncan et al. 2002 emend. Duncan et al. 2006],Hespellia porcina NRRLB-23458 (NR_025206) [Hespellia porcina Whitehead et al. 2004],Ruminococcus gauvreauii CCRI-16110 (NR_044265) [Ruminococcus gauvreauii Domingo et al. 2008],Schaedlerella arabinosiphila DSM106076 (NZ_RHJS01000002) [Schaedlerella arabinosiphila Soh et al. 2019],Lacrimispora sphenoides DSM4024 (Y11568) [\"Bacillus sphenoides\" Douglas et al. 1919,Clostridium sphenoides (Douglas et al. 1919) Bergey et al. 1923,Desulfotomaculum guttoideum Gogotova and Vainstein 1986,\"Douglasillus sphenoides\" Heller 1922,Lacrimispora sphenoides (Douglas et al. 1919) Haas and Blanchard 2020,\"Plectridium sphenoides\" Prevot 1938],[Clostridium] celerecrescens 18A (NZ_PGET01000001) [Clostridium celerecrescens Palop et al. 1989,Lacrimispora celerecrescens (Palop et al. 1989) Haas and Blanchard 2020],Lacrimispora xylanolytica DSM6555 (NR_037068) [Clostridium xylanolyticum Rogers and Baecker 1991 emend. Chamkha et al. 2001,Lacrimispora xylanolytica (Rogers and Baecker 1991) Haas and Blanchard 2020],Hungatella xylanolytica X5-1 (NR_104899) [Bacteroides xylanolyticus Scholten-Koerselman et al. 1988,Hungatella xylanolytica (Scholten-Koerselman et al. 1988) Garcia-Lopez et al. 2020],Fusicatenibacter saccharivorans HT03-11 (NR_114326) [Fusicatenibacter saccharivorans Takada et al. 2013],Blautia argi N6H1-15 (NR_171444) [Blautia argi Paek et al. 2019],Blautia hansenii JCM14655 (AB534168) [Blautia hansenii (Holdeman and Moore 1974) Liu et al. 2008,Ruminococcus hansenii (Holdeman and Moore 1974) Ezaki et al. 1994,Streptococcus hansenii Holdeman and Moore 1974 (Approved Lists 1980)],Coprococcus comes ATCC27758 (NR_044048) [Coprococcus comes Holdeman and Moore 1974],Lachnoclostridium edouardi Marseille-P3397 (NZ_OESQ01000001) [\"Lachnoclostridium edouardi\" Traore et al. 2017],[Clostridium] fimetarium DSM9179 (AF126687) [Clostridium fimetarium Kotsyurbenko et al. 1997],[Clostridium] hylemonae JCM10539 (AB910737) [Clostridium hylemonae Kitahara et al. 2000],Blautia faecis M25 (NR_109014) [Blautia faecis Park et al. 2013],Merdimonas faecis BR31 (KP966093) [Merdimonas faecis Seo et al. 2017],Parasporobacterium paucivorans SYR1 (NR_025390) [Parasporobacterium paucivorans Lomans et al. 2004],Mediterraneibacter glycyrrhizinilyticus ZM35 (NR_112553) [Clostridium glycyrrhizinilyticum Sakuma et al. 2006,\"Mediterraneibacter glycyrrhizinilyticus\" (Sakuma et al. 2006) Togo et al. 2018,Mediterraneibacter glycyrrhizinilyticus (Sakuma et al. 2006) Togo et al. 2019],Mediterraneibacter butyricigenes KCTC15684 (NZ_BHGK01000001) [\"Mediterraneibacter butyricigenes\" Kim et al. 2019,Mediterraneibacter butyricigenes Kim et al. 2019],Lactobacillus rogosae ATCC27753 (GU269544) [Lactobacillus rogosae Holdeman and Moore 1974],Dorea phocaeensis Marseille-P4003 (NZ_OEPZ01000011) [\"Dorea phocaeensis\" Takakura et al. 2019],Eisenbergiella massiliensis AT11 (NR_144731) [\"Eisenbergiella massiliensis\" Togo et al. 2016],Eisenbergiella tayi B086562 (NR_118643) [Eisenbergiella tayi Amir et al. 2014],Pseudobutyrivibrio ruminis DSM9787 (NR_026315) [Pseudobutyrivibrio ruminis van Gylswyk et al. 1996]",
+			"aliases": "Catenabacterium contortum,Eubacterium contortum,Clostridium oroticum,Zymobacterium oroticum,Ruminococcus gnavus,Clostridium coccoides,Ruminococcus obeum,Clostridium citroniae,Clostridium bolteae,butyrate-producing bacterium,Agathobacter rectalis,Eubacterium rectale,Ruminococcus hydrogenotrophicus,Eubacterium eligens,Ruminococcus torques,Bryantella formatexigens,Clostridium-like sp.,Ruminococcus sp.,Clostridium symbiosum,Agathobacter faecis,Clostridium methoxybenzovorans,Clostridium indolis,Clostridium saccharolyticum,Clostridium amygdalinum,Clostridium algidixylanolyticum,Anaerosacchariphilus polymeriproducens,Clostridium pacaense,Clostridium aldenense,Eubacterium oxidoreducans,Clostridium scindens,Blautia glucerasei,Eubacterium fissicatena,[Ruminococcus] faecis,Peptostreptococcus productus,Ruminococcus productus,Streptococcus productus,Clostridium lavalense,Clostridium asparagiforme,Clostridium sp.,Bacterium clostridiiforme,Bacteroides clostridiiformis,Clostridium clostridiiforme,Eggerthella clostridiiformis,Ristella clostridiiformis,Bacteroides rectalis,Pseudobacterium rectale,Roseburia rectale,Bacteroides pectinophilus,Bacillus sphenoides,Clostridium sphenoides,Desulfotomaculum guttoideum,Douglasillus sphenoides,Plectridium sphenoides,Clostridium celerecrescens,Clostridium xylanolyticum,Bacteroides xylanolyticus,Ruminococcus hansenii,Clostridium fimetarium,Clostridium hylemonae,Clostridium glycyrrhizinilyticum",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 1316688,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					717190,
+					74345,
+					54816,
+					16005
+				],
+				"fractions": [
+					0.83166349,
+					0.086211495,
+					0.063565396,
+					0.01855962
+				]
+			},
+			"taxon_id_color": "90_16",
+			"short_tid_color": "90_16",
+			"abundance": 0.0937
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_21",
+			"short_tid": "90_21",
+			"taxa_name": "Bacteroidales",
+			"species": "",
+			"taxonomy": "Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales",
+			"ref_genomes": "Bacteroides stercoris (ATCC43183:NZ_DS499665,DSM19555:NZ_FNOD01000057,CC31F:NZ_KE340309,:NZ_CABOGI010000023,1001136B160425B8:NZ_JADNDV010000059,1001283B150225161107F2:NZ_JADNPL010000056,D52t1170925D7:NZ_JADMRQ010000049,D40t1170626E5:NZ_JADNNX010000071,BIOML-A16:NZ_WCLO01000093),Bacteroides clarus (YIT12056:NZ_FQWK01000014,YIT12056:NZ_GL882586),Bacteroides gallinarum (JCM13658:NZ_BAJK01000111),Bacteroides fluxus (YIT12057:NZ_GL882626),Bacteroides ndongoniae (Marseille-P3108:NZ_FNVV01000013),Bacteroides cellulosilyticus (WH2:NZ_CP012801,DSM14838:NZ_EQ973490,CL02T12C19:NZ_JH724085,WH2:NZ_ATFI01000022),Bacteroides sp. (14A:NZ_JAGH01000001,HPS0048:NZ_KB905495,UW:NZ_JANI01000007,325:NZ_JH636045,3133FAA:NZ_GG705247,9142FAA:NZ_KQ235773,3140A:NZ_GL635676,4347FAA:NZ_JH114358,224:NZ_EQ973383,2122:NZ_GG705192,D22:NZ_GG774827,1130:NZ_GL945119,D1:NZ_JH114334,3113:NZ_KQ236955,HMSC068A09:NZ_KV806060,3123:NZ_GG774962,HMSC073E02:NZ_KV820037,D20:NZ_GG730109,4136:NZ_GL622512),Bacteroides intestinalis (KLE1704:NZ_KQ968670,DSM17393:NZ_ABJL02000006,2e7A:NZ_CDQQ01001406),Bacteroides oleiciplenus (YIT12058:NZ_JH992945),Bacteroides stercorirosoris (DSM26884:NZ_FQZN01000072),Bacteroides caecimuris (I48:NZ_CP015401),Bacteroides acidifaciens (1e8A:NZ_CDPR01001381),Bacteroides congonensis (Marseille-P3132:NZ_FQXY01000004),Bacteroides eggerthii (1248FAA:NZ_AKBX01000002,DSM20697:NZ_DS995511,1248FAA:NZ_GL622558),Bacteroides helcogenes (P36-108:NC_014933),Bacteroides neonati (MS4:NZ_HG726020),Bacteroides salyersiae (2789STDY5608871:NZ_CYXS01000013,CL02T12C01:NZ_JH724308,DSM18765:NZ_KB905466),Bacteroides ihuae (Marseille-P2824:NZ_FNVX01000001),Bacteroides nordii (CL02T12C05:NZ_JH724315),Bacteroides massiliensis (DSM17679:NZ_KB905472),Bacteroides paurosaccharolyticus (JCM15092:NZ_BAJR01000054),Bacteroides bouchesdurhonensis (Marseille-P2653:NZ_LT707007),Bacteroides faecichinchillae (JCM17102:NZ_BAKK01000086,DSM26883:NZ_FQVD01000063),Bacteroides togonis (Marseille-P3166:NZ_LT670820),Mediterranea massiliensis (Marseille-P2645:NZ_LT635824),Bacteroides reticulotermitis (JCM10512:NZ_BAIV01000061),Bacteroides fragilis (HMW610:NZ_JH815482,HMW616:NZ_JH815525,O21:NZ_KV751174,BF8:NZ_LGTH01000001,2-F-2#7:NZ_JGCO01000350,J38-1:NZ_JGDV01000058,YCH46:NC_006347,638R:NC_016776,CL05T00C42:NZ_AKBY01000002,2d2A:NZ_CDQM01000911,4g8B:NZ_CDQP01001253,BOB25:NZ_CP011073,S14:NZ_CP012706,1007-1-F#8:NZ_JGCM01000117,3783N1-2:NZ_JGCS01000211,3976T7:NZ_JGCU01000180,3986TB9:NZ_JGCW01000278,3998TB4:NZ_JGDC01000319,DS-166:NZ_JGDD01000100,DS-208:NZ_JGDE01000108,DS-71:NZ_JGDF01000117,Ds-233:NZ_JGDG01000463,J-143-4:NZ_JGDH01000069,S36L11:NZ_JGDJ01000055,1007-1-F#7:NZ_JGDL01000039,3397N2:NZ_JGDN01000081,3397T14:NZ_JGDO01000051,3719A10:NZ_JGDP01000095,3725D9v:NZ_JGDQ01000021,3976T8:NZ_JGDS01000062,S6L3:NZ_JGDY01000033,S6R6:NZ_JGDZ01000068,1007-1-F#10:NZ_JGEA01000001,1007-1-F#3:NZ_JGEB01000028,1007-1-F#9:NZ_JGEC01000032,1009-4-F#10:NZ_JGED01000001,20793-3:NZ_JGEF01000044,3397N3:NZ_JGEG01000033,3719T6:NZ_JGEH01000045,3986NB22:NZ_JGEI01000024,A7UDC12-2:NZ_JGEK01000066,S23L24:NZ_JGEL01000054,S24L15:NZ_JGEM01000060,S24L26:NZ_JGEN01000051,S24L34:NZ_JGEO01000053,S36L12:NZ_JGEP01000035,S36L5:NZ_JGEQ01000076,S38L5:NZ_JGER01000035,S6R5:NZ_JGET01000001,3783N1-6:NZ_JGEU01000037,I1345:NZ_JGEW01000031,1007-1-F#5:NZ_JGVD01000065,S6R8:NZ_JGVE01000107,1007-1-F#6:NZ_JGVF01000009,3986N3:NZ_JGVG01000010,CL03T00C08:NZ_JH724173,CL03T12C07:NZ_JH724181,CL05T00C42:NZ_JH724189,CL07T00C01:NZ_JH724206,CL07T12C05:NZ_JH724215,HMW615:NZ_JH815491,S23L17:NZ_JHEF01000050,894BFRA:NZ_JUOZ01000109,885BFRA:NZ_JUPJ01000236,322BFRA:NZ_JVLP01000110,321BFRA:NZ_JVLQ01000051,320BFRA:NZ_JVLR01000136,86-5443-2-2:NZ_LIDS01000138,20793-3:NZ_LIDT01000043,20656-2-1:NZ_LIDU01000040,2-078382-3:NZ_LIDV01000075,BE1:NZ_LN877293,ATCC25285:NZ_MTGH01000017),Bacteroides luti (DSM26991:NZ_FQTV01000031),Phocaeicola sartorii (dnLKV3:NZ_KE159499),Bacteroides caccae (ATCC43185:NZ_AAVM02000001,2789STDY5834880:NZ_CZAI01000019,2789STDY5834946:NZ_CZBL01000006,CL03T12C61:NZ_JH724079),Bacteroides dorei (CL03T12C01:NZ_CP011531,DSM17855:NZ_DS995539,5136/D4:NZ_JH114322,CL02T00C15:NZ_JH724110,CL02T12C06:NZ_JH724134,CL03T12C01:NZ_JH724153),Bacteroides vulgatus (ATCC8482:NC_009614,PC510:NZ_ADKO01000087,CL09T03C04:NZ_JH724283,3975RP4:NZ_JNHM01000010,dnLKV7:NZ_KE159466),Phocaeicola vulgatus (2789STDY5834842:NZ_CYZI01000001,2789STDY5834897:NZ_CZAN01000096,2789STDY5834944:NZ_CZBK01000002),Bacteroides xylanisolvens (SDCC1b:NZ_ADKP01000087,SDCC2a:NZ_ADMP01000058,NLAE-zl-C202:NZ_FOUM01000093,CL03T12C04:NZ_JH724295),Bacteroides ovatus (ATCC8483:NZ_CP012938,ATCC8483:NZ_DS264580,V975:NZ_LT622246,DSM1896:NZ_FNQD01000047,3847FAA:NZ_GL945036,CL02T12C04:NZ_JH724227,CL03T12C18:NZ_JH724241,3725D1iv:NZ_JNHF01000157),Bacteroides thetaiotaomicron (VPI-5482:NC_004663,2e6A:NZ_CDQO01001406,7330:NZ_CP012937,:NZ_CVOY01000011,2789STDY5608873:NZ_CYYB01000007,2789STDY5834899:NZ_CZAP01000045,KPPR-3:NZ_FOAL01000034,116:NZ_JH636029,dnLKV9:NZ_KE159461,KLE1254:NZ_KQ968231,2789STDY5834945:NZ_CZBI01000005),Bacteroides faecis (MAJ27:NZ_AGDG01000041,MAJ27:NZ_FNNN01000059),Bacteroides finegoldii (2789STDY5608840:NZ_CYZH01000023,CL09T03C10:NZ_JH951902),Bacteroides graminisolvens (JCM15093:NZ_BAJS01000049),Bacteroides uniformis (2a3A:NZ_CELP01000805,2a7B:NZ_CELS01000805,2789STDY5608864:NZ_CYYO01000004,2789STDY5608791:NZ_CYZF01000001,2789STDY5834844:NZ_CZAD01000019,2789STDY5834847:NZ_CZAF01000001,2789STDY5834898:NZ_CZAO01000004,ATCC8492:NZ_DS362231,DSM6597:NZ_FNPN01000038,CL03T00C23:NZ_JH724260,CL03T12C37:NZ_JH724268,3978T3ii:NZ_JNHN01000174,3978T3i:NZ_JNHO01000003,dnLKV2:NZ_KE159482,KLE1607:NZ_KQ968316,2789STDY5834942:NZ_CZBF01000007)",
+			"num_typestrains": 71,
+			"typestrains": "Bacteroides stercoris ATCC43183 (NZ_DS499665) [Bacteroides stercoris Johnson et al. 1986],Bacteroides clarus YIT12056 (AB490801) [Bacteroides clarus Watanabe et al. 2010],Bacteroides gallinarum JCM13658 (AB253732) [Bacteroides gallinarum Lan et al. 2006],Bacteroides fluxus YIT12057 (AB490802) [Bacteroides fluxus Watanabe et al. 2010],Bacteroides ndongoniae Marseille-P3108 (NZ_FNVV01000013) [\"Bacteroides ndongoniae\" Andrieu et al. 2018],Bacteroides cellulosilyticus DSM14838 (NZ_EQ973490) [Bacteroides cellulosilyticus Robert et al. 2007 emend. Hahnke et al. 2016],Bacteroides intestinalis JCM13265 (AB214328) [Bacteroides intestinalis Bakir et al. 2006 emend. Hahnke et al. 2016],Bacteroides oleiciplenus YIT12058 (AB490803) [Bacteroides oleiciplenus Watanabe et al. 2010],Bacteroides stercorirosoris JCM17103 (AB574481) [Bacteroides stercorirosoris Kitahara et al. 2012],Bacteroides caecimuris I48 (CP015401) [Bacteroides caecimuris Lagkouvardos et al. 2016],Bacteroides congonensis Marseille-P3132 (NZ_FQXY01000004) [\"Bacteroides congonensis\" Bilen et al. 2016],Bacteroides eggerthii JCM12986 (AB510700) [Bacteroides eggerthii Holdeman and Moore 1974 (Approved Lists 1980) emend. Hahnke et al. 2016],Bacteroides helcogenes P36-108 (CP002352) [Bacteroides helcogenes Benno et al. 1983 emend. Hahnke et al. 2016],Bacteroides neonati MS4 (NZ_HG726020) [\"Bacteroides neonati\" Cassir et al. 2014],Bacteroides salyersiae WAL10018 (AY608696) [Bacteroides salyersiae corrig. Song et al. 2005],Bacteroides ihuae Marseille-P2824 (NZ_FNVX01000001) [\"Bacteroides ihuae\" Fonkou et al. 2017],Bacteroides nordii JCM12987 (AB510704) [Bacteroides nordii Song et al. 2005],Bacteroides massiliensis JCM13223 (AB510703) [Bacteroides massiliensis Fenner et al. 2005 emend. Hahnke et al. 2016,\"Candidatus Bacteroides massiliae\" Drancourt et al. 2004,Phocaeicola massiliensis (Fenner et al. 2005) Garcia-Lopez et al. 2020],Bacteroides paurosaccharolyticus JCM15092 (NZ_BAJR01000054) [Bacteroides paurosaccharolyticus Ueki et al. 2011,Phocaeicola paurosaccharolyticus (Ueki et al. 2011) Garcia-Lopez et al. 2020],Bacteroides bouchesdurhonensis Marseille-P2653 (LT558803) [\"Bacteroides bouchesdurhonensis\" Ndongo et al. 2017],Bacteroides faecichinchillae JCM17102 (AB574480) [Bacteroides faecichinchillae Kitahara et al. 2012],Bacteroides togonis Marseille-P3166 (NZ_LT670820) [\"Bacteroides togonis\" Andrieu et al. 2018],Mediterranea massiliensis Marseille-P2645 (NZ_LT635824) [\"Mediterranea massiliensis\" Mailhe et al. 2016],Bacteroides reticulotermitis JCM10512 (AB692943) [Bacteroides reticulotermitis Sakamoto and Ohkuma 2013],Bacteroides fragilis DSM2151 (AB050106) [Bacillus fragilis Veillon and Zuber 1898,Bacteroides fragilis (Veillon and Zuber 1898) Castellani and Chalmers 1919 (Approved Lists 1980) emend. Hahnke et al. 2016,\"Bacteroides inaequalis\" Eggerth and Gagnon 1933,\"Bacteroides incommunis\" Eggerth and Gagnon 1933,\"Bacteroides uncatus\" Eggerth and Gagnon 1933,\"Fusiformis fragilis\" Topley and Wilson 1929,\"Pseudobacterium fragilis\" Krasil'nikov 1949,\"Pseudobacterium inaequalis\" (Eggerth and Gagnon 1933) Krasil'nikov 1949,\"Pseudobacterium incommunis\" (Eggerth and Gagnon 1933) Krasil'nikov 1949,\"Pseudobacterium uncatum\" (Eggerth and Gagnon 1933) Krasil'nikov 1949,\"Ristella fragilis\" Prevot 1938,\"Ristella incommunis\" (Eggerth and Gagnon 1933) Prevot 1938,\"Ristella uncata\" (Eggerth and Gagnon 1933) Prevot 1938,\"Sphaerophorus inaequalis\" (Eggerth and Gagnon 1933) Prevot 1938,\"Sphaerophorus intermedius\" Bergan and Hovig 1968],Bacteroides luti UasXn-3 (AB787271) [Bacteroides luti Hatamoto et al. 2014],Bacteroides caccae JCM9498 (AB510697) [Bacteroides caccae Johnson et al. 1986 emend. Hahnke et al. 2016],Bacteroides dorei JCM13471 (AB242142) [Bacteroides dorei Bakir et al. 2006 emend. Hahnke et al. 2016,Phocaeicola dorei (Bakir et al. 2006) Garcia-Lopez et al. 2020],Phocaeicola vulgatus JCM5826 (AB050111) [Bacteroides vulgatus Eggerth and Gagnon 1933 (Approved Lists 1980) emend. Hahnke et al. 2016,Phocaeicola vulgatus (Eggerth and Gagnon 1933) Garcia-Lopez et al. 2020],Bacteroides xylanisolvens XB1A (AM230650) [Bacteroides xylanisolvens Chassard et al. 2008],Bacteroides ovatus ATCC8483 (NZ_CP012938) [\"Bacteroides fragilis subsp. ovatus\" (Eggerth and Gagnon 1933) Holdeman and Moore 1970,Bacteroides ovatus Eggerth and Gagnon 1933 (Approved Lists 1980) emend. Hahnke et al. 2016,\"Pasteurella ovata\" (Eggerth and Gagnon 1933) Prevot 1938,\"Pseudobacterium ovatum\" (Eggerth and Gagnon 1933) Krasil'nikov 1949],Bacteroides thetaiotaomicron JCM5827 (AB050109) [\"Bacillus thetaiotaomicron\" Distaso 1912,\"Bacteroides fragilis subsp. thetaiotaomicron\" (Distaso 1912) Holdeman and Moore 1970,Bacteroides thetaiotaomicron (Distaso 1912) Castellani and Chalmers 1919 (Approved Lists 1980) emend. Hahnke et al. 2016,\"Pseudobacterium thetaiotaomicron\" (Distaso 1912) Krasil'nikov 1949,\"Sphaerocillus thetaiotaomicron\" (Distaso 1912) Prevot 1938],Bacteroides faecis MAJ27 (NZ_AGDG01000041) [Bacteroides faecis Kim et al. 2010],Bacteroides koreensis YS-aM39 (KX025133) [Bacteroides koreensis Shin et al. 2017],Bacteroides kribbi R2F3-3-3 (KX025134) [Bacteroides kribbi Shin et al. 2017],Bacteroides graminisolvens XDT-1 (AB363973) [Bacteroides graminisolvens Nishiyama et al. 2009 emend. Hahnke et al. 2016],Bacteroides uniformis JCM5828 (AB050110) [Bacteroides uniformis Eggerth and Gagnon 1933 (Approved Lists 1980) emend. Hahnke et al. 2016],Bacteroides rodentium JCM16496 (AB531489) [Bacteroides rodentium Kitahara et al. 2011],Bacteroides heparinolyticus DSM23917 (NZ_SLXB01000046) [Bacteroides heparinolyticus Okuda et al. 1985,Prevotella heparinolytica (Okuda et al. 1985) Shah and Collins 1990],Bacteroides acidifaciens JCM10556 (AB510696) [Bacteroides acidifaciens Miyamoto and Itoh 2000],Bacteroides sartorii A-C2-0 (NR_117373) [Bacteroides chinchillae Kitahara et al. 2011,Bacteroides sartorii Clavel et al. 2010 emend. Sakamoto and Ohkuma 2012,Phocaeicola chinchillae (Kitahara et al. 2011) Garcia-Lopez et al. 2020,Phocaeicola sartorii (Clavel et al. 2010) Garcia-Lopez et al. 2020]",
+			"aliases": "Bacteroides sp.,Bacteroides salyersae,bacterium 84634,Bacteroides massiliensis,Bacteroidaceae bacterium,Bacillus fragilis,Bacteroides inaequalis,Bacteroides incommunis,Bacteroides uncatus,Fusiformis fragilis,Pseudobacterium fragilis,Pseudobacterium inaequalis,Pseudobacterium incommunis,Pseudobacterium uncatum,Ristella fragilis,Ristella incommunis,Ristella uncata,Sphaerophorus inaequalis,Sphaerophorus intermedius,Bacteroides chinchillae,Bacteroides sartorii,Phocaeicola chinchillae,Bacteroides dorei,Bacteroides vulgatus,Bacteroides xylanisolvensJCM,Bacteroides fragilis,Pasteurella ovata,Pseudobacterium ovatum,Bacillus thetaiotaomicron,Pseudobacterium thetaiotaomicron,Sphaerocillus thetaiotaomicron,Prevotella heparinolytica,Prevotella heparinolyticus,Candidatus Bacteroides,Bacteroides paurosaccharolyticus",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 1101422,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					637759,
+					63786,
+					27666,
+					7845
+				],
+				"fractions": [
+					0.8652789,
+					0.086541593,
+					0.037535816,
+					0.010643696
+				]
+			},
+			"taxon_id_color": "90_21",
+			"short_tid_color": "90_21",
+			"abundance": 0.0531
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_286",
+			"short_tid": "90_286",
+			"taxa_name": "Oscillospiraceae",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales;Oscillospiraceae",
+			"ref_genomes": "Faecalibacterium prausnitzii (M21/2:NZ_DS483498,A2-165:NZ_GG697149,:NZ_CABKNH010000006,APC923/51-1:NZ_PRLD01000048,:NZ_CABMES010000013,P9239:NZ_CABVEU010000017,P9123:NZ_CABVEJ010000001,A2165:NZ_CP022479,CNCMI4541:NZ_NMTR01000005,CNCMI4540:NZ_NMTQ01000015,CNCMI4544:NZ_NMTU01000011,CNCMI4542:NZ_NMTS02000059,AF36-11A:NZ_QVEQ01000035,AM39-7BH:NZ_QVFA01000010,BIOML-B15:NZ_WKPY01000007,AF10-13:NZ_QSAW01000007,BIOML-B12:NZ_WKQB01000057,BIOML-B17:NZ_WKPW01000042,BIOML-B4:NZ_WKQJ01000016,BIOML-B2:NZ_WKQL01000030,BIOML-B8:NZ_WKQF01000008,BIOML-B11:NZ_WKQC01000009,BIOML-B3:NZ_WKQK01000007,BIOML-B9:NZ_WKQE01000054,BIOML-B6:NZ_WKQH01000075,BIOML-B7:NZ_WKQG01000008,BIOML-B5:NZ_WKQI01000010,BIOML-B10:NZ_WKQD01000068,BIOML-B18:NZ_WKPV01000006,BIOML-B14:NZ_WKPZ01000008,BIOML-B13:NZ_WKQA01000009,aa0143:NZ_RCYJ01000084,ATCC27768:NZ_PXUP01000056,APC918/95b:NZ_CP030777,2789STDY5834970:NZ_CYXN01000059,CNCMI4644:NZ_NMTZ01000006,CNCMI4573:NZ_NMTW01000017,CNCMI4546:NZ_NMTV01000016,ATCC27766:NZ_PXUQ01000053,APC924/119:NZ_PRLF01000053,AF29-11BH:NZ_QVEW01000001,AF31-14AC:NZ_QVES01000023,BIOML-B1:NZ_WKQM01000092,:NZ_CABIWV010000043,2789STDY5608869:NZ_CYYL01000043,:NZ_CABIWR010000010,BIOML-A1:NZ_WKQN01000004,P9313:NZ_CABVEN010000030,P9240:NZ_CABVEL010000033,P9122:NZ_CABVEM010000003,P9391:NZ_CABVEO010000002,JCM31915:NZ_CP048437,P9225:NZ_LR700100,P9094:NZ_LR700178,P9238:NZ_LR699993,P9241:NZ_LR699953,P9224:NZ_LR700063,P9311:NZ_LR700147,Indica:NZ_CP023819,CNCMI4574:NZ_NMTX01000033,CNCMI4543:NZ_NMTT01000019,AHMP21:NZ_NOUW01000010),Subdoligranulum sp. (4354A2FAA:NZ_JH414703,TF05-17AC:NZ_QVHL01000041,AM23-21AC:NZ_QVGK01000064,AF14-43:NZ_QVGX01000053,OF01-18:NZ_QVGP01000001,AM16-9:NZ_QVGL01000090,DSM109015:NZ_JADCKC010000014),Ruthenibacterium lactatiformans (585-1:NZ_JXXK01000069,668:NZ_LMUA01000058,:NZ_LR215981,BIOML-A14:NZ_WMZM01000053,BIOML-A7:NZ_WMZR01000047,BIOML-A15:NZ_WMZL01000056,BIOML-A6:NZ_WMZS01000048,BIOML-A12:NZ_WMZO01000052,BIOML-A4:NZ_WMZU01000066,BIOML-A3:NZ_WMZV01000117,BIOML-A5:NZ_WMZT01000067,BIOML-A2:NZ_WMZW01000090,BIOML-A13:NZ_WMZN01000073,BIOML-A10:NZ_WMZQ01000090,BIOML-A1:NZ_WMZX01000073,WCA3-601-WT-6J:NZ_VUNJ01000042),Fournierella massiliensis (AM2:NZ_LN908959,:NZ_CABKVM010000014,DSM100451:NZ_SLUM01000073),Faecalibacterium sp. (BIOML-A3:NZ_WKZH01000041,BIOML-A4:NZ_WKZG01000002,AF27-11BH:NZ_QVGS01000002,AM43-5A:NZ_QVGZ01000033,AF10-46:NZ_QVGY01000003,BIOML-A1:NZ_WKZJ01000006,BIOML-A2:NZ_WKZI01000044,OF03-6AC:NZ_QUEN01000013,OM04-11BH:NZ_QULS01000002),Faecalibacterium cf. (KLE1255:NZ_GL538271),[Ruminococcus] torques (2789STDY5834889:NZ_CZBX01000028),Lacticaseibacillus rhamnosus (BIOML-A4:NZ_WKPA01000043),Gemmiger sp. (An194:NZ_NFKA01000023,An50:NZ_NFID01000035,An120:NZ_NFLN01000011),Gemmiger formicilis (:NZ_CABIYV010000003),Subdoligranulum variabile (:NZ_CABKNV010000010),Anaerofilum sp. (An201:NZ_NFJT01000058),Pygmaiobacter massiliensis (Marseille-P3336:NZ_OAML01000003)",
+			"num_typestrains": 9,
+			"typestrains": "Ruthenibacterium lactatiformans 585-1 (NZ_JXXK01000069) [Ruthenibacterium lactatiformans Shkoporov et al. 2016],Faecalibacterium prausnitzii ATCC27768 (AJ413954) [\"Bacillus mucosus anaerobius\" Prausnitz 1922,\"Bacteroides praussnitzii\" (sic) Hauduroy et al. 1937,Faecalibacterium prausnitzii (Hauduroy et al. 1937) Duncan et al. 2002,Fusobacterium prausnitzii (Hauduroy et al. 1937) Moore and Holdeman 1970 (Approved Lists 1980)],Fournierella massiliensis AT2 (NR_156911) [Fournierella massiliensis Togo et al. 2017],Gemmiger formicilis ATCC27749 (GU562446) [Gemmiger formicilis Gossling and Moore 1975],Subdoligranulum variabile DSM15176 (NR_028997) [Subdoligranulum variabile Holstrom et al. 2004],Pygmaiobacter massiliensis Marseille-P3336 (NZ_OAML01000003) [\"Pygmaiobacter massiliensis\" Bilen et al. 2017]",
+			"aliases": "Bacillus mucosus,Bacteroides praussnitzii,Fusobacterium prausnitzii",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 869609,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					560587,
+					36465,
+					16202,
+					5505
+				],
+				"fractions": [
+					0.90598601,
+					0.058932476,
+					0.026184669,
+					0.0088968407
+				]
+			},
+			"taxon_id_color": "90_286",
+			"short_tid_color": "90_286",
+			"abundance": 0.0338
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_388",
+			"short_tid": "90_388",
+			"taxa_name": "Megamonas",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Negativicutes;Selenomonadales;Selenomonadaceae;Megamonas",
+			"ref_genomes": "Megamonas funiformis (YIT11815:NZ_JH601091,Marseille-P3344:NZ_LT669948,JCM14723:NZ_CP048627,TM04-24:NZ_QSPX01000016,:NZ_CABMFB010000015,AM23-11:NZ_QRHX01000028),Megamonas hypermegale (An288:NZ_NFIW01000043,NCTC10570:NZ_LT906446,NCTC10571:NZ_UGPP01000001),Megamonas sp. (Calf98-2:NZ_FOCY01000063),Megamonas rupellensis (AF27-12:NZ_QRTP01000019,OM02-7LB:NZ_QSVE01000015,AF29-2:NZ_QRST01000004)",
+			"num_typestrains": 4,
+			"typestrains": "Megamonas funiformis YIT11815 (NZ_JH601091) [Megamonas funiformis Sakon et al. 2008],Megamonas hypermegale DSM1672 (AJ420107) [Bacteroides hypermegas Harrison and Hansen 1963 (Approved Lists 1980),Megamonas hypermegale corrig. (Harrison and Hansen 1963) Shah and Collins 1983,\"Sphaerophorus hypermegas\" (Harrison and Hansen 1963) Prevot 1966]",
+			"aliases": "Bacteroides hypermegas,Megamonas hypermegas,Sphaerophorus hypermegas",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 233744,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					144364,
+					17224,
+					5041,
+					1489
+				],
+				"fractions": [
+					0.85870636,
+					0.10245185,
+					0.029984891,
+					0.008856874
+				]
+			},
+			"taxon_id_color": "90_388",
+			"short_tid_color": "90_388",
+			"abundance": 0.028
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_217",
+			"short_tid": "90_217",
+			"taxa_name": "Dialister",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister",
+			"ref_genomes": "Dialister succinatiphilus (YIT11850:NZ_JH591187,:NZ_CABKRA010000001),Dialister pneumosintes (F0677:NZ_CP017037,KCOM1685:NZ_QWKU01000001),Dialister micraerophilus (DSM19965:NZ_GL878521),Dialister invisus (DSM15470:NZ_GG698602),Blautia sp. (AM16-16B:NZ_QTUS01000045),Bacteroides sp. (AM16-15:NZ_QTUT01000049),Megamonas funiformis (AF12-42:NZ_QSAH01000109),Collinsella sp. (AF05-8-2:NZ_QSBC01000061,OM04-5:NZ_QSUU01000030),Dialister massiliensis (Marseille-P5638:NZ_LT996885),Dialister hominis (5BBH33:NZ_AP019697),Dialister microaerophilus (UPII345-E:NZ_AENT01000008),Allisonella histaminiformans (DSM15230:NZ_FMXA01000001)",
+			"num_typestrains": 14,
+			"typestrains": "Dialister succinatiphilus YIT11850 (NZ_JH591187) [Dialister succinatiphilus Morotomi et al. 2008],Dialister pneumosintes ATCC33048 (X82500) [\"Bacillus pneumosintes\" (Olitsky and Gates 1921) Ford 1927,\"Bacterium pneumosintes\" Olitsky and Gates 1921,Bacteroides pneumosintes (Olitsky and Gates 1921) Holdeman and Moore 1970 (Approved Lists 1980),\"Dialister pneumosintes\" (Olitsky and Gates 1921) Bergey et al. 1923,Dialister pneumosintes (Olitsky and Gates 1921) Moore and Moore 1994 emend. Downes et al. 2003,Dialister pneumosintes (Olitsky and Gates 1921) Moore and Moore 1994 emend. Jumas-Bilak et al. 2005,\"Dialister pneumosintes var. septicemiae\" Hauduroy et al. 1953],Dialister micraerophilus DSM19965 (NZ_GL878521) [Dialister micraerophilus Jumas-Bilak et al. 2005],Allisonella histaminiformans MR2 (AF548373) [Allisonella histaminiformans Garner et al. 2003],Dialister invisus DSM15470 (NZ_GG698602) [Dialister invisus Downes et al. 2003],Dialister massiliensis Marseille-P5638 (NZ_LT996885) [],Dialister hominis 5BBH33 (NZ_AP019697) [Dialister hominis Sakamoto et al. 2020],Dialister propionicifaciens JCM17568 (AB626634) [Dialister propionicifaciens Jumas-Bilak et al. 2005]",
+			"aliases": "Dialister sp.,Bacillus pneumosintes,Bacterium pneumosintes,Bacteroides pneumosintes",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 653637,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					413150,
+					20469,
+					8289,
+					3042
+				],
+				"fractions": [
+					0.92853129,
+					0.046002921,
+					0.018629059,
+					0.0068367231
+				]
+			},
+			"taxon_id_color": "90_217",
+			"short_tid_color": "90_217",
+			"abundance": 0.0272
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_258",
+			"short_tid": "90_258",
+			"taxa_name": "Bacteroidales",
+			"species": "",
+			"taxonomy": "Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales",
+			"ref_genomes": "Bacteroides mediterraneensis (Marseille-P2644:NZ_LT635783),Bacteroides coprophilus (JCM13816:NZ_BBIH01000098,JCM13817:NZ_BBII01000104,JCM13818:NZ_BBIJ01000104,DSM18228:NZ_EQ973630),Bacteroides ilei (Marseille-P3208:NZ_LT635801),Bacteroides coprocola (DSM17136:NZ_DS981457),Phocaeicola coprophilus (AM42-38:NZ_QSFT01000006,FDAARGOS1220:NZ_CP069440,:NZ_CABJGD010000006),Phocaeicola coprocola (AF24-2:NZ_QRUU01000031,:NZ_CABKNL010000022),Phocaeicola plebeius (1001262B160229B1:NZ_JADMTX010000103,AM09-36:NZ_QRML01000019,AM23-23:NZ_QRHQ01000081,AF24-20AC:NZ_QRUT01000030,AF27-30:NZ_QRTL01000055,TF10-3AC:NZ_QSQT01000022,OM08-14:NZ_QSTF01000088,AF24-16AC:NZ_QRUY01000011,AF27-1:NZ_QRTR01000015,:NZ_CABOGR010000022)",
+			"num_typestrains": 11,
+			"typestrains": "Bacteroides mediterraneensis Marseille-P2644 (NZ_LT635783) [\"Bacteroides mediterraneensis\" Mailhe et al. 2016],Bacteroides caecigallinarum C13EG111 (AB861981) [Bacteroides caecigallinarum Saputra et al. 2015],Bacteroides coprophilus CB42 (AB260026) [Bacteroides coprophilus Hayashi et al. 2007 emend. Hahnke et al. 2016,Phocaeicola coprophilus (Hayashi et al. 2007) Garcia-Lopez et al. 2020],Bacteroides ilei Marseille-P3208 (NZ_LT635801) [\"Bacteroides ilei\" Andrieu et al. 2018],Phocaeicola barnesiae JCM13652 (AB253726) [Bacteroides barnesiae Lan et al. 2006,Phocaeicola barnesiae (Lan et al. 2006) Garcia-Lopez et al. 2020],Bacteroides coprocola M16 (AB200224) [Bacteroides coprocola Kitahara et al. 2005,Phocaeicola coprocola (Kitahara et al. 2005) Garcia-Lopez et al. 2020],Bacteroides plebeius M12 (AB200217) [Bacteroides plebeius Kitahara et al. 2005,Phocaeicola plebeius (Kitahara et al. 2005) Garcia-Lopez et al. 2020]",
+			"aliases": "Bacteroides coprophilus,Bacteroides barnesiae,Bacteroides coprocola,Bacteroides plebeius",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 529926,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					337254,
+					28277,
+					10113,
+					3203
+				],
+				"fractions": [
+					0.89021164,
+					0.074639633,
+					0.026694154,
+					0.0084546003
+				]
+			},
+			"taxon_id_color": "90_258",
+			"short_tid_color": "90_258",
+			"abundance": 0.0205
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_91",
+			"short_tid": "90_91",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "Oscillibacter valericigenes (Sjm18-20:NC_016048),Oscillibacter ruminantium (GH1:NZ_DF158903),Anaerostipes hadrus (2789STDY5834860:NZ_CYZM01000020),Pseudoflavonifractor capillosus (ATCC29799:NZ_AAXG02000037),Flavonifractor plautii (YL31:NZ_CP015406,2789STDY5834892:NZ_CZAS01000053,2789STDY5834932:NZ_CZBD01000012,ATCC29863:NZ_JH417629,1350AFAA:NZ_KN174174,BIOML-A5:NZ_WKPO01000009,1001302B160321F8:NZ_JADNIM010000090,D31t1170403E8:NZ_JADMVA010000079,1001283B150304161114C5:NZ_JADPDL010000078,An248:NZ_NFJM01000020,:NZ_CAAKOI010000504,D52t1170925G2:NZ_JADNHL010000043,YL31:NZ_NHMQ01000002,YL31:NZ_CP065315,BIOML-A4:NZ_WKPP01000077,BIOML-A3:NZ_WKPQ01000008,1001136B160425D5:NZ_JADPCX010000089,D33t1170424D6:NZ_JADPFI010000210,DSM6740:NZ_SLXC01000055,BSD2780061687150420F5:NZ_JADMVC010000068,1001287H170206B10:NZ_JADMVZ010000093,BSD2780061687150420C5:NZ_JADMOW010000093,1001175st1C9:NZ_SPHS01000064,BIOML-A2:NZ_WKPR01000024,JCM32125:NZ_CP048436,D40t1170626H4:NZ_JADMVW010000065,1001713B170214170313D10:NZ_JADMWB010000111,1001713B170131170501H3:NZ_JADNCN010000101,J1101653170612C3:NZ_JADOZR010000213,BIOML-A1:NZ_WKPS01000032,D6t1180914E2:NZ_JADNAN010000240,1001283B150304161114B1:NZ_JADNGA010000046,J1100102180507B5:NZ_JADPCY010000242),Clostridium sp. (ATCCBAA-442:NZ_KE992632),Clostridium phoceensis (GD3:NZ_LN866274,:NZ_CABKUC010000010),Pseudoflavonifractor sp. (Marseille-P3106:NZ_LT827109,SW1122:NZ_SJOS01000098,An187:NZ_NFKG01000060,An176:NZ_NFKO01000064,An44:NZ_NFIH01000036),Oscillibacter sp. (1-3:NZ_KE159707,ER4:NZ_JPJG01000126,KLE1745:NZ_KI271778,PEA192:NZ_AP018532,KLE1728:NZ_KI271465),Intestinimonas massiliensis (GD2:NZ_LN869527),Sporobacter termitidis (DSM10068:NZ_FQXV01000034),Intestinimonas butyriciproducens (AF211:NZ_CP011307,ER1:NZ_JPJD01000056,27-5-10:NZ_MJII01000001,SRB-521-5-I:NZ_CP011524,D59t2181005A6:NZ_JADMRO010000040,1001302B160321E11:NZ_JADPFT010000020,BSD2780061687b171204A3:NZ_JADNGR010000032,DSM26588:NZ_QEKK01000025,D40t1170626B2:NZ_JADMQW010000043,J1101653170612D4:NZ_JADPFH010000115),Dysosmobacter sp. (NSJ-60:NZ_JACOQJ010000024,BX15:NZ_JACOQI010000050),Flintibacter sp. (KGMB00164:NZ_CP044227,NSJ-23:NZ_JACOPO010000019),Lawsonibacter asaccharolyticus (3BBH22:NZ_BFBT01000001),Dysosmobacter welbionis (J115:NZ_CP034413)",
+			"num_typestrains": 23,
+			"typestrains": "Oscillibacter valericigenes Sjm18-20 (AB238598) [Oscillibacter valericigenes Iino et al. 2007 emend. Le Roy et al.],Oscillibacter ruminantium GH1 (NZ_DF158903) [\"Oscillibacter ruminantium\" Lee et al. 2012,Oscillibacter ruminantium Lee et al. 2013 emend. Le Roy et al.],Pseudoflavonifractor capillosus ATCC29799 (AY136666) [\"Bacillus capillosus\" Tissier 1908,Bacteroides capillosus (Tissier 1908) Kelly 1957,\"Pseudobacterium capillosum\" (Tissier 1908) Krasil'nikov 1949,Pseudoflavonifractor capillosus (Tissier 1908) Carlier et al. 2010,\"Ristella capillosa\" (Tissier 1908) Prevot 1938],Flavonifractor plautii ATCC29863 (AY724678) [\"Bacillus plauti\" (sic) Seguin 1928,Clostridium orbiscindens Winter et al. 1991,Eubacterium plautii (Seguin 1928) Hofstad and Aasjord 1982,Flavonifractor plautii (Seguin 1928) Carlier et al. 2010,Fusobacterium plautii corrig. Seguin 1928 (Approved Lists 1980),\"Fusocillus plauti\" (sic) (Seguin 1928) Prevot 1938,\"Zuberella plauti\" (sic) (Seguin 1928) Sebald 1962],Intestinimonas massiliensis GD2 (LN866996) [\"Intestinimonas massiliensis\" Durand et al. 2017],Clostridium phoceensis GD3 (NZ_LN866274) [\"Clostridium phoceensis\" Hosny et al. 2016],Sporobacter termitidis DSM10068 (NZ_FQXV01000034) [Sporobacter termitidis Grech-Mora et al. 1996],[Clostridium] viride DSM6836 (NR_026204) [Clostridium viride Buckel et al. 1995],Lawsonibacter asaccharolyticus 3BBH22 (NZ_BFBT01000001) [Lawsonibacter asaccharolyticus Sakamoto et al. 2018],Intestinimonas butyriciproducens SRB-521-5-I (KC311367) [\"Candidatus Clostridium anorexicus\" Pfleiderer et al. 2013,Intestinimonas butyriciproducens Klaring et al. 2013],Dysosmobacter welbionis J115 (NZ_CP034413) [Dysosmobacter welbionis Le Roy et al.]",
+			"aliases": "Oscillibacter sp.,Bacteroides capillosus,Bacillus plauti,Clostridium orbiscindens,Eubacterium plautii,Fusobacterium plautii,Fusocillus plauti,Zuberella plauti,Clostridium viride,Candidatus Clostridium",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 1101324,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					638932,
+					61380,
+					43332,
+					11352
+				],
+				"fractions": [
+					0.84627205,
+					0.081298441,
+					0.057393681,
+					0.015035842
+				]
+			},
+			"taxon_id_color": "90_91",
+			"short_tid_color": "90_91",
+			"abundance": 0.0158
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_274",
+			"short_tid": "90_274",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "Anaerobutyricum hallii (DSM3353:NZ_ACEP01000116,2789STDY5834966:NZ_CYYC01000009,TM10-1AC:NZ_QSOE01000320,AF31-17AC:NZ_QRQO01000011),Coprococcus eutactus (2789STDY5834963:NZ_CYXU01000014,2789STDY5608888:NZ_CYYE01000020,2789STDY5608843:NZ_CYYJ01000018,2789STDY5608829:NZ_CYYZ01000009,ATCC27759:NZ_DS483526,:NZ_CABJEB010000001,MSK.10.6:NZ_JAAIOI010000027,:NZ_CABIWG010000005,MSK.18.32:NZ_JAAILQ010000022,MSK.18.68:NZ_JAAINL010000022,MSK.6.35:NZ_JAAIOH010000014),Clostridium sp. (L2-50:NZ_DS480312,AF16-25:NZ_QTXG01000005,AF23-8:NZ_QUFV01000003,D43t1170807D5:NZ_JADNPP010000020,1001270H150608G6:NZ_JADPLX010000014,OM08-29:NZ_QUKW01000004,AF15-49:NZ_QTXK01000003,AF15-41:NZ_QTMQ01000014,BIOML-A1:NZ_WWTL01000001,AM54-37XD:NZ_QUEV01000021,AM46-21:NZ_QUIB01000027,OM05-9:NZ_QULF01000006,AF23-6LB:NZ_QTWK01000004,AF15-31:NZ_QTXL01000004,AF17-21AC:NZ_QTWY01000014,AM54-14XD:NZ_QUEW01000023,OF10-22XD:NZ_QUMB01000025),Eubacterium sp. (An3:NZ_NFIR01000068),Coprococcus sp. (AF16-5:NZ_QUGZ01000002,OM06-34AC:NZ_QTZF01000017,AF16-22:NZ_QTXH01000007,BIOML-A1:NZ_WWSJ01000003,BIOML-A2:NZ_WWSI01000003,AF19-8AC:NZ_QTMI01000002,AF38-1:NZ_QVGO01000012,AM14-16:NZ_QTLL01000001,OM06-25:NZ_QTZG01000033,MSK.21.13:NZ_JAALGW010000314,NSJ-10:NZ_JACOOX010000008),Eubacterium ruminantium (ATCC17233:NZ_FUXA01000034,HUN269:NZ_FMTO01000035,2388:NZ_FNHR01000033)",
+			"num_typestrains": 4,
+			"typestrains": "Anaerobutyricum hallii DSM3353 (NZ_ACEP01000116) [Anaerobutyricum hallii (Holdeman and Moore 1974) Shetty et al. 2018,Eubacterium hallii Holdeman and Moore 1974],Coprococcus eutactus ATCC27759 (NZ_DS483526) [Coprococcus eutactus Holdeman and Moore 1974],Eubacterium ruminantium ATCC17233 (NZ_FUXA01000034) [Eubacterium ruminantium Bryant 1959]",
+			"aliases": "Eubacterium hallii",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 657541,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					443072,
+					21020,
+					11105,
+					3999
+				],
+				"fractions": [
+					0.92461538,
+					0.043865141,
+					0.023174234,
+					0.0083452286
+				]
+			},
+			"taxon_id_color": "90_274",
+			"short_tid_color": "90_274",
+			"abundance": 0.013
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_782",
+			"short_tid": "90_782",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "Eubacterium coprostanoligenes (ATCC51222:NZ_FUWW01000033)",
+			"num_typestrains": 1,
+			"typestrains": "Eubacterium coprostanoligenes HL (HM037995) [Eubacterium coprostanoligenes Freier et al. 1994]",
+			"aliases": "",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 732031,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					475680,
+					34938,
+					16066,
+					5048
+				],
+				"fractions": [
+					0.89458597,
+					0.06570603,
+					0.030214468,
+					0.0094935047
+				]
+			},
+			"taxon_id_color": "90_782",
+			"short_tid_color": "90_782",
+			"abundance": 0.0109
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_140",
+			"short_tid": "90_140",
+			"taxa_name": "Fusobacteriaceae",
+			"species": "",
+			"taxonomy": "Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae",
+			"ref_genomes": "Fusobacterium perfoetens (ATCC29250:NZ_JHXW01000023),Bacillus bogoriensis (ATCCBAA-922:NZ_JHYI01000050),Fusobacterium mortiferum (ATCC9817:NZ_GL987993,AM25-18LB:NZ_QRHI01000006,OM06-15BH:NZ_QSTZ01000004,AM25-1:NZ_QRHL01000058,:NZ_CABMMQ010000010,ATCC9817:NZ_CP028102,:NZ_CAEUHP010000001),Fusobacterium massiliense (Marseille-P2749:NZ_LT608324),Fusobacterium nucleatum (W1481:NZ_AXUR01000043,ATCC23726:NZ_ADVK01000034,KCOM1322:NZ_CP012716,CTI-2:NZ_KI518422,ChDCF311:NZ_LMVH01000001,3136A2:NC_022196,ATCC51190:NZ_AKXI01000001,3127:NZ_CP007064,CTI-7:NZ_KI518364,CC53:NZ_AOUL01000366,4113:NZ_KQ235734,ChDCF306:NZ_CP013121,133C:NZ_KI965381,NCTC10562:NZ_LN831027,48:NC_021281,F0401:NZ_ADDB02000001,71:NZ_AKBT01000001,F0419:NZ_AKCE01000001,211A:NZ_CM002368,71:NZ_CP007062,KCOM1279:NZ_CP012713,KCOM1325:NZ_CP012715,1132:NZ_GL945398,3133:NZ_KI391962,CTI-5:NZ_KI518400,CTI-3:NZ_KI518405,CTI-1:NZ_KI518460,:NZ_CABKSX010000004,ATCC23726:NZ_CP028109,ChDCF317:NZ_CP022122,25586:NZ_CP028101,:NZ_LR698955,NCTC11326:NZ_UGGX01000001,AB1:NZ_MLQO01000051,KCOM2931:NZ_CP024749,KCOM2880:NZ_PEIJ01000001,KCOM1231:NZ_CP012714,13-08-02:NZ_BHYR01000037,KCOM1257:NZ_NIRL01000001,KCOM1232:NZ_NJGI01000006,:NZ_CABKTD010000006,KCOM1330:NZ_NIRQ01000001,KCOM1275:NZ_CP022123,KCOM1267:NZ_NIRM01000006,CTI-6:NZ_AXNV01000069,KCOM1248:NZ_NIRK01000001,KCOM1274:NZ_NIRO01000008,KCOM1271:NZ_NIRN01000001,KCOM1278:NZ_NIRP01000001,12230:NZ_QKOC01000044,OH5060:NZ_RQZD01000044,KCOM1001:NZ_NHRT01000001,KCOM1002:NZ_NIRJ01000001,Fn12230:NZ_CP053468,KCOM1260:NZ_CP021934,KCOM1265:NZ_PEQW01000001,:NZ_CABKNP010000002,KCOM1280:NZ_NJGJ01000001,F0419:NZ_JH594452,MJR7757B:NZ_KQ956610,P2CP:NZ_NPND01000081,P2LM:NZ_NPNC01000116),Fusobacterium sp. (HMSC064B12:NZ_KV803417,OBRC1:NZ_JANA01000083,CM22:NZ_JAQC01000060,CM1:NZ_JANB01000140,HMSC065F01:NZ_KV813857,HMSC073F01:NZ_KV801512,FSA-380-WT-3A:NZ_JABAFQ010000031,FSA-380-WT-2B:NZ_VUMQ01000037,1001295B180824G3:NZ_JADNFS010000046,CM21:NZ_AZYU01000199,HMSC064B11:NZ_KV821682),Fusobacterium periodonticum (ATCC33693:NZ_GG665876,1141FAA:NZ_GG770384,D10:NZ_JH815343,2131:NZ_KN173679,:NZ_CABKPC010000021),Fusobacterium hwasookii (ChDCF206:NZ_CP013336,ChDCF128:NZ_ALVD01000020,ChDCF174:NZ_CP013331,ChDCF300:NZ_CP013334,KCOM1253:NZ_CP060115,KCOM1249:NZ_CP060112),Fusobacterium varium (ATCC27725:NZ_GL987999,TM07-10:NZ_QSOW01000017,:NZ_CABMMP010000001,1001254B151014B5:NZ_JADNKU010000123,ATCC27725:NZ_CP028103,NCTC10560:NZ_LR134390,Fv113-g1:NZ_AP017968,AM22-17:NZ_QRIG01000012),Fusobacterium ulcerans (ATCC49185:NZ_JH815231,121B:NZ_KE161007,:NZ_CABKNW010000004,ATCC49185:NZ_CP028105,NCTC12112:NZ_LS483487,:NZ_LR215979,OF01-15LB:NZ_QSDE01000008),Fusobacterium necrophorum (ATCC51357:NZ_AJSY01000016,Fnf1007:NZ_ALKK01000049,B35:NZ_AOJP01000025,ATCC25286:NZ_FMXX01000002,BL:NZ_JAAC01000011,DJ-1:NZ_JAAD01000046,BFTR-1:NZ_JAAE01000002,DAB:NZ_JAAF01000033,DJ-2:NZ_JAAH01000019,LS1197:NZ_LVDY01000018,LS1260:NZ_LVDZ01000032,LS1195:NZ_LVEQ01000011,LS1266:NZ_LVER01000056,LS1272:NZ_LVES01000006,LS1280:NZ_LVET01000021,LS1291:NZ_LVEU01000021,F1248:NZ_LVEV01000030,F1250:NZ_LVEW01000021,F1267:NZ_LVEX01000023,F1285:NZ_LVEY01000035,F1309:NZ_LVEZ01000016,F1314:NZ_LVFA01000021,F1330:NZ_LVFB01000019,F1351:NZ_LVFC01000021,F1353:NZ_LVFD01000020,F1365:NZ_LVFE01000025,1136S:NZ_CP028107,ATCC25286:NZ_CP034842,BFTR-2:NZ_JAAG01000032,FDAARGOS565:NZ_CP033837,F1291:NZ_CP018196,D12:NZ_GL988017,F1260:NZ_CP019306,KG35:NZ_SBAP01000039,CCUG42162:NZ_VZOZ01000019,KG34:NZ_SBAO01000034,P1CP:NZ_NPNF01000028,:NZ_CABMIK010000028,LS1264:NZ_LVEA01000047,P1LM:NZ_NPNE01000029),Fusobacterium equinum (CMW8396:NZ_KQ956581),Fusobacterium russii (593A:NZ_KB906944),Fusobacterium necrogenes (NCTC10723:NZ_UGGU01000003),Cetobacterium sp. (2Glarge:NZ_JACHTH010000003,8H:NZ_JACHTG010000003),Cetobacterium somerae (:NZ_CABKSZ010000050,ATCCBAA-474:NZ_KI518103),Proteus mirabilis (1001254B151014E5:NZ_JADMSH010000042),Fusobacterium canifelinum (FDAARGOS999:NZ_CP066022,FDAARGOS1126:NZ_CP068114,OH4460COT-188:NZ_RQYY01000040),Fusobacterium pseudoperiodonticum (KCOM1259:NZ_PEQY01000001,KCOM1277:NZ_CP024701,KCOM2555:NZ_CP024704,KCOM1283:NZ_CP024698,KCOM1262:NZ_CP024731,KCOM2653:NZ_CP024705,KCOM1261:NZ_CP024699,KCOM1282:NZ_CP024702,KCOM1321:NZ_PEQX01000001,KCOM2305:NZ_CP024703),Cetobacterium ceti (ATCC700028:NZ_FUWX01000057),Fusobacterium gonidiaformans (:NZ_CABKOB010000022,ATCC25563:NZ_KQ235752,ATCC25563:NZ_CP028106,315R:NZ_GG657977)",
+			"num_typestrains": 71,
+			"typestrains": "Fusobacterium perfoetens ATCC29250 (NZ_JHXW01000023) [\"Bacterium perfoetens\" (Tissier 1905) Weinberg et al. 1937,\"Bacteroides perfoetens\" (Tissier 1905) Hauduroy et al. 1937,\"Cocco-Bacillus anaerobius perfoetens\" (sic) Tissier 1900,\"Coccobacillus perfoetens\" Tissier 1905,Fusobacterium perfoetens (Tissier 1905) Moore and Holdeman 1973,\"Pseudobacterium perfoetens\" (Tissier 1905) Krasil'nikov 1949,\"Ristella perfoetens\" (Tissier 1905) Prevot 1938,\"Sphaerophorus perfoetens\" (Tissier 1905) Sebald 1962],Bacillus bogoriensis ATCCBAA-922 (NZ_JHYI01000050) [Alkalihalobacillus bogoriensis (Vargas et al. 2005) Patel and Gupta 2020,Bacillus bogoriensis Vargas et al. 2005],Fusobacterium massiliense Marseille-P2749 (NZ_LT608324) [\"Fusobacterium massiliense\" Mailhe et al. 2017],Fusobacterium gastrosuis CDW1 (LN906797) [Fusobacterium gastrosuis De Witte et al. 2017],Fusobacterium simiae JCM17465 (AB616133) [Fusobacterium simiae Slots and Potts 1982],Fusobacterium nucleatum ATCC25586 (AE009951) [\"Corynebacterium fusiforme\" (Veillon and Zuber 1898) Lehmann and Neumann 1907,\"Fusiformis fusiformis\" (Veillon and Zuber 1898) Topley and Wilson 1936,\"Fusiformis nucleatus\" (Knorr 1922) Bergey et al. 1930,Fusobacterium nucleatum Knorr 1922],Fusobacterium periodonticum ATCC33693 (NZ_GG665876) [Fusobacterium periodonticum Slots et al. 1984],Fusobacterium canifelinum JCM17464 (AB616132) [Fusobacterium canifelinum Conrads et al. 2004],Fusobacterium hwasookii ChDCF128 (NZ_ALVD01000020) [\"Fusobacterium hwasookii\" Cho et al. 2015],Fusobacterium varium JCM3722 (AB595132) [\"Actinomyces pseudo-necro-phorus\" Harris and Brown 1927,\"Bacteroides varius\" Eggerth and Gagnon 1933,Fusobacterium pseudonecrophorum (ex Harris and Brown 1927) Shinjo et al. 1990,Fusobacterium varium (Eggerth and Gagnon 1933) Moore and Holdeman 1969,\"Pseudobacterium varium\" (Eggerth and Gagnon 1933) Krasil'nikov 1949,\"Sphaerophorus varius\" (Eggerth and Gagnon 1933) Prevot 1938,\"Sphaerophorus varius var. sulfitoreductans\" Sebald. 1962],Fusobacterium ulcerans ATCC49185 (NZ_JH815231) [Fusobacterium ulcerans Adriaans and Shah 1988],Fusobacterium necrophorum JCM3718 (AB849121) [\"Acinomyces pseudonecrophorus\" Harris and Brown 1927,\"Actinomyces necrophorus\" (Flugge 1886) Lehmann and Neumann 1899,\"Bacillus necrophorus\" Flugge 1886,\"Bacillus necroseos\" (sic) Jensen 1897,\"Bacillus necrosus\" (sic) (Jensen 1897) Weinberg et al. 1937,\"Bacterium necrophorum\" (Flugge 1886) Lehmann and Neumann 1927,\"Bacteroides necrophorus\" (Flugge 1886) Beerens and Tahon-Castel 1965,\"Corynebacterium necrophorum\" (Flugge 1886) Lehmann and Neumann 1907,\"Fusiformis hemolyticus\" (sic) Beerens and Gaumont 1953,\"Fusiformis necrophorus\" (Flugge 1886) Topley and Wilson 1929,Fusobacterium necrophorum (Flugge 1886) Moore and Holdeman 1969,\"Necrobacterium necrophorus\" (sic) (Flugge 1886) Lahelle and Thjtta 1945,\"Proactinomyces necrophorus\" (Flugge 1886) Krasil'nikov 1941,\"Sphaerophorus necrophorus\" (Flugge 1886) Prevot 1938,\"Streptothrix necrophorus\" (Flugge 1886) Kitt 1899,\"Streptothrix necuphtora\" (sic) (Flugge 1886) Bergey et al. 1930],Fusobacterium mortiferum CCUG14475 (LT574675) [\"Bacillus mortiferus\" Harris 1901,\"Bacillus necroticus\" Nativelle 1936 in Weinberg et al. 1937,\"Bacteroides freundii\" Hauduroy et al. 1937,Clostridium rectum (Heller 1922) Holdeman and Moore 1972 (Approved Lists 1980),Fusobacterium mortiferum (Harris 1901) Moore and Holdeman 1970 (Approved Lists 1980) emend. De Witte et al. 2017,\"Fusubacterium ridiculosum\" (Prevot 1948) Moore and Holdeman 1969,\"Hiblerillus rectus\" Heller 1922,\"Pseudobacterium freundii\" (Hauduroy et al. 1937) Krasil'nikov 1949,\"Pseudobacterium mortiferum\" (Harris 1901) Krasil'nikov 1949,\"Pseudobacterium necroticum\" (Nativelle 1936) Krasil'nikov 1949,\"Spherophorus freundi\" (sic) (Hauduroy et al. 1937) Prevot 1938,\"Spherophorus mortiferus\" (sic) (Harris 1901) Prevot 1938,\"Spherophorus necroticus\" (Nativelle 1936) Prevot 1938],Fusobacterium necrogenes NCTC10723 (NZ_UGGU01000003) [\"Bacillus necrogenes\" Weinberg et al. 1937,Fusobacterium necrogenes (Weinberg et al. 1937) Moore and Holdeman 1970,\"Proactinomyces gedanensis var. necrogenes\" Krasil'nikov 1949,\"Pseudobacterium necrogenes\" (Weinberg et al. 1937) Krasil'nikov 1949,\"Spherophorus necrogenes\" (sic) (Weinberg et al. 1937) Prevot 1938],Cetobacterium somerae WAL14325 (AJ438155) [Cetobacterium somerae Finegold et al. 2003],Fusobacterium pseudoperiodonticum KCOM1259 (NZ_PEQY01000001) [\"Fusobacterium pseudoperiodonticum\" Park et al. 2019],Cetobacterium ceti NCFB3026 (X78419) [Cetobacterium ceti Foster et al. 1996],Fusobacterium equinum JCM11174 (AB639144) [Fusobacterium equinum Dorsch et al. 2001],Fusobacterium gonidiaformans ATCC25563 (NZ_KQ235752) [\"Actinomyces gonidiaformis\" (Tunnicliff and Jackson 1925) Bergey et al. 1930,\"Bacillus gonidiaformans\" Tunnicliff and Jackson 1925,Fusobacterium gonidiaformans (Tunnicliff and Jackson 1925) Moore and Holdeman 1970,\"Pseudobacterium gonidiaformans\" (Tunnicliff and Jackson 1925) Krasil'nikov 1949,\"Sphaerophorus gonidiaformans\" (Tunnicliff and Jackson 1925) Prevot 1938]",
+			"aliases": "Fusobacterium sp.,Fusobacterium nucleatum,Actinomyces pseudo-necro-phorus,Bacteroides varius,Fusobacterium necrophorum,Fusobacterium pseudonecrophorum,Pseudobacterium varium,Sphaerophorus pseudonecrophorus,Sphaerophorus varius,Sphaerophorus funduliformis,Acinomyces pseudonecrophorus,Actinomyces necrophorus,Bacillus necrophorus,Bacillus necroseos,Bacillus necrosus,Bacterium necrophorum,Bacteroides necrophorus,Corynebacterium necrophorum,Fusiformis hemolyticus,Fusiformis necrophorus,Necrobacterium necrophorus,Proactinomyces necrophorus,Sphaerophorus necrophorus,Streptothrix necrophorus,Streptothrix necuphtora,Bacillus mortiferus,Bacillus necroticus,Bacteroides freundii,Clostridium rectum,Fusubacterium ridiculosum,Hiblerillus rectus,Pseudobacterium freundii,Pseudobacterium mortiferum,Pseudobacterium necroticum,Spherophorus freundi,Spherophorus mortiferus,Spherophorus necroticus,Spherophorus ridiculosus,Bacillus necrogenes,Fusibacterium necrogenes,Proactinomyces gedanensis,Pseudobacterium necrogenes,Spherophorus necrogenes,Fusobacterium plauti-vincentii,Fusobacterium vincentii,Sphaerophorus fusiformis,Fusobacterium animalis",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 735343,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					375472,
+					58882,
+					16395,
+					5697
+				],
+				"fractions": [
+					0.82259893,
+					0.12900102,
+					0.035918817,
+					0.012481214
+				]
+			},
+			"taxon_id_color": "90_140",
+			"short_tid_color": "90_140",
+			"abundance": 0.0103
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_126",
+			"short_tid": "90_126",
+			"taxa_name": "Parabacteroides",
+			"species": "",
+			"taxonomy": "Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides",
+			"ref_genomes": "Parabacteroides timonensis (Marseille-P3236:NZ_LT669940),Parabacteroides goldsteinii (CL02T12C30:NZ_JH976471,dnLKV18:NZ_KE159519,DSM19448:NZ_KQ033912,910340:NZ_LFJV01000171,BIOML-A1:NZ_WKLS01000077,BIOML-A9:NZ_WKLL01000074,526-21:NZ_QWKD01000274,0.1X-D42-15:NZ_RAZN01000075,BIOML-A3:NZ_WKLQ01000098,BIOML-A2:NZ_WKLR01000079,MD072:NZ_VIQW01000042,BIOML-A5:NZ_WKLO01000105,BIOML-A6:NZ_WKLN01000086,19428wG3P14:NZ_JADGKT010000066,BIOML-A10:NZ_WKLK01000082,BIOML-A4:NZ_WKLP01000080,BIOML-A11:NZ_WKLJ01000083,:NZ_CABKUI010000001,:NZ_UYXO01000064,D55t1190419C9:NZ_JADNDF010000056,1001713B170207170306B11:NZ_JADNNP010000053),Parabacteroides sp. (ASF519:NZ_KB822571,Marseille-P3160:NZ_LT799418,HGS0025:NZ_KQ033902,D13:NZ_GG698739,AF14-59:NZ_QUHH01000003,P14:NZ_SPPR01000066,AF17-3:NZ_QTMM01000013,AF21-43:NZ_QTMG01000055,TF12-11:NZ_QSQL01000045,D25:NZ_JH976502,AT13:NZ_NQMH01000001,OF04-13BH:NZ_QTMV01000010,AF27-14:NZ_QTLZ01000001,AM17-47:NZ_QTLI01000016,TF09-4:NZ_QSQY01000002,CT06:NZ_CP022754),Parabacteroides merdae (2789STDY5834848:NZ_CZAG01000004,ATCC43184:NZ_DS264471,CL03T12C32:NZ_JH976452,CL09T00C40:NZ_JH976525,:NZ_CABIXG010000004,BIOML-A28:NZ_WNCO01000008,D53t1180928D7:NZ_JADNFV010000072,BIOML-A24:NZ_WNCS01000003,BIOML-A22:NZ_WNCU01000005,BIOML-A20:NZ_WNCW01000020,AF35-4AC:NZ_QRPL01000002,1001270H150608G12:NZ_JADPGN010000051,BIOML-A15:NZ_WNDB01000008,AF38-4:NZ_QROL01000005,AM34-17:NZ_QSII01000001,BIOML-A25:NZ_WNCR01000001,1001302B160321F2:NZ_JADNHS010000042,OM05-11AA:NZ_QSUP01000009,AF19-8:NZ_QRWF01000006,bq0049:NZ_RCYQ01000004,AM16-50:NZ_QRKC01000001,D33t1170424F9:NZ_JADNJN010000375,BSD2780120875b170604B5:NZ_JADMOA010000065,1001175st1A1:NZ_SPGG01000048,NCTC13052:NZ_UFTK01000001,BIOML-A10:NZ_WNDE01000001,D52t1170925B4:NZ_JADNKC010000047,1001713B170207170306F10:NZ_JADMVT010000055,BIOML-A18:NZ_WNCY01000003,BIOML-A16:NZ_WNDA01000005,BIOML-A27:NZ_WNCP01000056,AF31-17:NZ_QRQP01000001,1001283B150217161031E7:NZ_JADNMU010000049,BIOML-A11:NZ_WNDD01000045,D59t2181005G1:NZ_JADNDR010000070,BIOML-A19:NZ_WNCX01000246,BIOML-A4:NZ_WNDK01000002,AF26-22BH:NZ_QRTV01000004,BIOML-A3:NZ_WNDL01000002,1001136B160425B1:NZ_JADMOV010000060,BIOML-A23:NZ_WNCT01000314,1001262B160229F9:NZ_JADPBS010000048,BIOML-A17:NZ_WNCZ01000001,BIOML-A6:NZ_WNDI01000005,BIOML-A5:NZ_WNDJ01000009,BIOML-A1:NZ_WKLI01000002,AF33-34:NZ_QRPX01000027,BIOML-A9:NZ_WNDF01000009,D54t1190329G1:NZ_JADMWD010000053,BIOML-A8:NZ_WNDG01000003,1001175B160314A1:NZ_JADNEG010000048,OM06-16AC:NZ_QSTY01000012,BIOML-A2:NZ_WNDM01000043,BIOML-A21:NZ_WNCV01000001,BIOML-A7:NZ_WNDH01000008,BIOML-A29:NZ_WNCN01000007,1001095IJ161003F2:NZ_JADMWK010000054,BIOML-A26:NZ_WNCQ01000010,AM26-6AC:NZ_QSKX01000001),Parabacteroides johnsonii (DSM18315:NZ_DS996442,CL02T12C29:NZ_JH976465,1001275B160808A11:NZ_JADMXA010000042,An42:NZ_NFIJ01000013,:NZ_UYXL01000001,D43t1170807H1:NZ_JADNJZ010000116),Parabacteroides massiliensis (SN4:NZ_LT700189),Parabacteroides gordonii (MS-1:NZ_KQ033919,:NZ_CABMFI010000031,OM02-37:NZ_QSWF01000031),Macellibacteroides sp. (HH-ZS:NZ_LZEK01000004),Parabacteroides distasonis (3776D15i:NZ_JNHK01000015,3776Po2i:NZ_JNHL01000160,3999BTB4:NZ_JNHP01000005,3999BTB6:NZ_JNHQ01000184,3776D15iv:NZ_JNHU01000005,2b7A:NZ_CDRH01001209,CL09T03C24:NZ_JH976487,ATCC8503:NC_009615,2789STDY5608822:NZ_CYYK01000013,CL03T12C09:NZ_JH976495,CBBP-1:NZ_CP051672,NBRC113806:NZ_AP019729,FDAARGOS615:NZ_CP050956,D59t2181005D4:NZ_JADMXQ010000036,BIOML-A25:NZ_WKMJ01000003,D40t1170626B3:NZ_JADNEQ010000058,FDAARGOS759:NZ_CP054012,CavFT-hAR46:NZ_CP040468,:NZ_CABMKT010000001,CFPLTA0031B:NZ_VOHW01000060,1001713B170221170320A5:NZ_JADPDX010000086,AF18-10:NZ_QRXK01000005,BIOML-A10:NZ_WKMX01000024,BIOML-A11:NZ_WKMW01000047,D41t1190614A1:NZ_JADMVU010000071,D31t1170403B5:NZ_JADMWZ010000001,BSD2780120875b170604D7:NZ_JADNHY010000031,BIOML-A36:NZ_WKLY01000001,BIOML-A39:NZ_WKLV01000035,BIOML-A40:NZ_WKLU01000001,BSD2780120874150323E11:NZ_JADNPT010000070,cx0004:NZ_RCYP01000066,BIOML-A22:NZ_WKMM01000002,AF36-3:NZ_QRPA01000004,D52t1170925C6:NZ_JADNFU010000063,BIOML-A8:NZ_WKMZ01000052,FDAARGOS1234:NZ_CP069431,FDAARGOS344:NZ_NJFM02000001,NCTC11152:NZ_UFST01000003,AM25-3:NZ_QSLL01000013,ADR12903B:NZ_VOIA01000044,ADR12901B:NZ_VOHU01000037,ADR12902B:NZ_WCIB01000040,ADR129M:NZ_WCIA01000035,BIOML-A34:NZ_WKMA01000003,BIOML-A7:NZ_WKNA01000036,BIOML-A27:NZ_WKMH01000003,BIOML-A29:NZ_WKMF01000003,BIOML-A32:NZ_WKMC01000006,BIOML-A31:NZ_WKMD01000003,BIOML-A6:NZ_WKNB01000003,BIOML-A33:NZ_WKMB01000056,BIOML-A26:NZ_WKMI01000003,1001302B160321D7:NZ_JADNDX010000051,J1101437171009H7:NZ_JADMWC010000052,D33t1170424F12:NZ_JADPDB010000104,:NZ_LR215978,AM15-13:NZ_QRKR01000029,1001095H141210G4:NZ_JADMZB010000004,CFPLTA0061B:NZ_WCIH01000026,BIOML-A28:NZ_WKMG01000015,OM07-5BH:NZ_QSTM01000002,AM30-4:NZ_QSJN01000004,AF33-31:NZ_QRPY01000011,BIOML-A24:NZ_WKMK01000056,BIOML-A35:NZ_WKLZ01000064,1001254J160919G7:NZ_JADNKV010000037,1001270H150608G7:NZ_JADPFL010000033,1001262B160229B8:NZ_JADPFB010000032,BIOML-A20:NZ_WKMO01000065,AF14-4AC:NZ_QRYZ01000032,AM33-1:NZ_QSIP01000024,AM16-4:NZ_QRKE01000049,BIOML-A30:NZ_WKME01000003,BIOML-A21:NZ_WKMN01000162,AM26-22AC:NZ_QSLB01000028,AM32-23:NZ_QSIV01000019,OM02-13:NZ_QSVO01000009,AM38-13AC:NZ_QSHF01000025,BIOML-A9:NZ_WKMY01000040,BIOML-A19:NZ_WKMP01000001,BIOML-A16:NZ_WKMS01000158,BIOML-A17:NZ_WKMR01000062,BIOML-A18:NZ_WKMQ01000073,BIOML-A13:NZ_WKMV01000004,BIOML-A14:NZ_WKMU01000001),Bacteroides sp. (3119:NZ_GG774771),Parabacteroides provencensis (Marseille-P3668:NZ_LT960488),Parabacteroides chinchillae (DSM29073:NZ_FNVS01000030),Macellibacteroides fermentans (DSM23697:NZ_JACCCY010000001),Streptococcus agalactiae (BSD2780120875150330F2:NZ_JADMXF010000015),Ligilactobacillus ruminis (BIOML-A4:NZ_WKOR01000027)",
+			"num_typestrains": 18,
+			"typestrains": "Parabacteroides timonensis Marseille-P3236 (NZ_LT669940) [\"Parabacteroides timonensis\" Bilen et al. 2016],Parabacteroides chongii YMCB3181 (KX462878) ['Parabacteroides chongii\" Kim et al. 2018],Parabacteroides goldsteinii WAL12034 (AY974070) [Bacteroides goldsteinii Song et al. 2006,Parabacteroides goldsteinii (Song et al. 2006) Sakamoto and Benno 2006],Parabacteroides merdae ATCC43184 (NZ_DS264471) [Bacteroides merdae Johnson et al. 1986,Parabacteroides merdae (Johnson et al. 1986) Sakamoto and Benno 2006 emend. Hahnke et al. 2016],Parabacteroides johnsonii JCM13406 (AB261128) [Parabacteroides johnsonii Sakamoto et al. 2007 emend. Hahnke et al. 2016],Parabacteroides chinchillae JCM17104 (AB574482) [Parabacteroides chinchillae Kitahara et al. 2013],Parabacteroides gordonii MS-1 (NZ_KQ033919) [Parabacteroides gordonii Sakamoto et al. 2009],Macellibacteroides fermentans LIND7H (HQ020488) [Macellibacteroides fermentans Jabari et al. 2012],Parabacteroides chartae NS31-3 (JN029805) [Parabacteroides chartae Tan et al. 2012],Parabacteroides distasonis ATCC8503 (NC_009615) [Bacteroides distasonis Eggerth and Gagnon 1933 (Approved Lists 1980),\"Bacteroides fragilis subsp. distasonis\" (Eggerth and Gagnon 1933) Holdeman and Moore 1970,Parabacteroides distasonis (Eggerth and Gagnon 1933) Sakamoto and Benno 2006 emend. Hahnke et al. 2016,\"Pseudobacterium distasonis\" (Eggerth and Gagnon 1933) Krasil'nikov 1949,\"Ristella distasonis\" (Eggerth and Gagnon 1933) Prevot 1938],Parabacteroides faecis 157 (NR_134785) [Parabacteroides faecis Sakamoto et al. 2015],Parabacteroides provencensis Marseille-P3668 (NZ_LT960488) [\"Parabacteroides provencensis\" Benabdelkader et al. 2020]",
+			"aliases": "Kim et,Bacteroides goldsteinii,Bacteroides merdae,Bacteroides distasonis,Bacteroides fragilis,Pseudobacterium distasonis,Ristella distasonis",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 855889,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					541671,
+					45222,
+					16782,
+					4477
+				],
+				"fractions": [
+					0.89068359,
+					0.0743597,
+					0.027595075,
+					0.0073616463
+				]
+			},
+			"taxon_id_color": "90_126",
+			"short_tid_color": "90_126",
+			"abundance": 0.0089
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_781",
+			"short_tid": "90_781",
+			"taxa_name": "Prevotella",
+			"species": "",
+			"taxonomy": "Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella",
+			"ref_genomes": "Prevotella sp. (Marseille-P4119:NZ_LT985323,885:NZ_NOVE01000117),Prevotella stercorea (:NZ_CABJDY010000114,AF42-9:NZ_QRNO01000114)",
+			"num_typestrains": 1,
+			"typestrains": "Prevotella stercorea CB35 (AB244774) [Prevotella stercorea Hayashi et al. 2007]",
+			"aliases": "",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 287462,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					196491,
+					9918,
+					3668,
+					1180
+				],
+				"fractions": [
+					0.93010408,
+					0.046947557,
+					0.017362738,
+					0.0055856137
+				]
+			},
+			"taxon_id_color": "90_781",
+			"short_tid_color": "90_781",
+			"abundance": 0.0082
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_807",
+			"short_tid": "90_807",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "",
+			"num_typestrains": 0,
+			"typestrains": "",
+			"aliases": "",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 794392,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					504919,
+					32198,
+					20519,
+					5547
+				],
+				"fractions": [
+					0.89654517,
+					0.057171471,
+					0.036433984,
+					0.0098493742
+				]
+			},
+			"taxon_id_color": "90_807",
+			"short_tid_color": "90_807",
+			"abundance": 0.0076
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_110",
+			"short_tid": "90_110",
+			"taxa_name": "Alistipes",
+			"species": "",
+			"taxonomy": "Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes",
+			"ref_genomes": "Alistipes putredinis (DSM17216:NZ_DS499579,:NZ_CABKND010000002,1001287H170206F3:NZ_JADMYY010000030,1001262B160229H8:NZ_JADNHV010000024),Alistipes indistinctus (YIT12060:NZ_JH370371,:NZ_CABKQI010000001,BIOML-A1:NZ_VVNE01000062,2BBH45:NZ_AP023049,AF17-14:NZ_QRXW01000022),Alistipes communis (ph8:NZ_CAHA01000059,D43t1170807E1:NZ_JADNHB010000038,:NZ_CABKRG010000004,6CPBBH3:NZ_AP019739,5CBH24:NZ_AP019735),Alistipes finegoldii (DSM17242:NC_018011,2789STDY5608890:NZ_CYYQ01000033,2789STDY5834947:NZ_CZBZ01000002,D53t1180928D3:NZ_JADMWR010000011,1001713B170207170306H2:NZ_JADNPH010000033,aa0143:NZ_RCXA01000062,BIOML-A1:NZ_VVND01000016),Alistipes sp. (HGB5:NZ_AENZ01000082,:NZ_LN609286,:NZ_FCNT01000097,:NZ_BLMN01000193,An31A:NZ_NFIO01000002,Marseille-P5061:NZ_LT985748,NSJ-20:NZ_JACOOK010000011,dk3624:NZ_CP045651,dk3620:NZ_WITL01000004,cv1:NZ_OEPW01000011,AF48-12:NZ_QUDJ01000039,AF17-16:NZ_QUGX01000028,AF14-19:NZ_QTXM01000048,AM16-43:NZ_QTUQ01000016),Alistipes senegalensis (JC50:NZ_CAHI01000040,:NZ_CABKRO010000005,1001283B150304161114C11:NZ_JADNJG010000064,1001270J160509B2:NZ_JADPDE010000097,:NZ_UYXI01000001),Alistipes timonensis (P148:NZ_CAEG01000022,DSM25383:NZ_FNRI01000015,D43t1170807G6:NZ_JADNKK010000023,:NZ_CABKWN010000004),Alistipes provencensis (Marseille-P2431:NZ_LT559262),Alistipes shahii (WAL8301:NC_021030,1001713B170131170501D7:NZ_JADMVN010000036,1001095IJ161003G7:NZ_JADMQM010000060,1001275B160808A9:NZ_JADMNV010000036,BSD2780061688b171218A10:NZ_JADNNA010000016,D40t1170626H5:NZ_JADNNJ010000061,BSD2780061688st1A10:NZ_SPHG01000016,BL-389-WT-23F:NZ_JABAGP010000046,BIOML-A1:NZ_VVXJ01000079,BIOML-A2:NZ_VVXK01000088),Alistipes onderdonkii (DSM19147:NZ_KB894541,1001136B160425D4:NZ_JADMQE010000028,1001713B170207170306D5:NZ_JADPAL010000049,1001285H161024H10:NZ_JADPHB010000034,BSD2780061687b171204C2:NZ_JADMRE010000025,3BBH6:NZ_AP019734,5NYCFAH2:NZ_AP019738,5CPYCFAH4:NZ_AP019737,D10-10:NZ_RDBS01000044,1001713B170207170306E5:NZ_JADPAQ010000016,am0171:NZ_RCXC01000074,An90:NZ_NFHB01000002,1001262B160229H2:NZ_JADPGS010000009,D52t1170925A10:NZ_JADMTG010000017,D54t1190329A1:NZ_JADNCE010000041),Alistipes ihumii (:NZ_CABKRZ010000033,AP11:NZ_CAPH01000028),Akkermansia muciniphila (BIOML-A33:NZ_VVKB01000025)",
+			"num_typestrains": 18,
+			"typestrains": "Alistipes putredinis JCM16772 (AB554232) [Alistipes putredinis (Weinberg et al. 1937) Rautio et al. 2003 emend. Hahnke et al. 2016,\"Bacillus putredinis\" Weinberg et al. 1937,Bacteroides putredinis (Weinberg et al. 1937) Kelly 1957 (Approved Lists 1980),\"Pseudobacterium putredinis\" (Weinberg et al. 1937) Krasil'nikov 1949,\"Ristella putredinis\" (Weinberg et al. 1937) Prevot 1938],Alistipes indistinctus YIT12060 (AB490804) [Alistipes indistinctus Nagai et al. 2010],Alistipes communis ph8 (JN837494) [Alistipes communis Sakamoto et al. 2020,\"Alistipes obesi\" Hugon et al. 2013],Alistipes finegoldii CIP107999 (AY643083) [Alistipes finegoldii Rautio et al. 2003],Alistipes senegalensis JC50 (NZ_CAHI01000040) [\"Alistipes senegalensis\" Mishra et al. 2012],Alistipes timonensis DSM25383 (NZ_FNRI01000015) [Alistipes timonensis Lagier et al. 2014],Alistipes provencensis Marseille-P2431 (NZ_LT559262) [\"Alistipes provencensis\" Bellali et al. 2019],Alistipes shahii JCM16773 (AB554233) [Alistipes shahii Song et al. 2006 emend. Hahnke et al. 2016],Alistipes onderdonkii WAL8169 (AY974071) [Alistipes onderdonkii Song et al. 2006],Alistipes ihumii AP11 (NZ_CAPH01000028) [Alistipes ihumii Pfleiderer et al. 2017,\"Candidatus Alistipes marseilloanorexicus\" Pfleiderer et al. 2013],Alistipes inops 627 (NR_145882) [Alistipes inops Shkoporov et al. 2015],Tidjanibacter massiliensis Marseille-P3084 (NR_147372) [\"Tidjanibacter massiliensis\" Mailhe et al. 2017]",
+			"aliases": "Bacillus putredinis,Bacteroides putredinis,Pseudobacterium putredinis,Ristella putredinis,Alistipes sp.,Alistipes obesi,Candidatus Alistipes",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 780168,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					502748,
+					36969,
+					18378,
+					4406
+				],
+				"fractions": [
+					0.89377266,
+					0.065722547,
+					0.032671943,
+					0.0078328745
+				]
+			},
+			"taxon_id_color": "90_110",
+			"short_tid_color": "90_110",
+			"abundance": 0.0065
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_173",
+			"short_tid": "90_173",
+			"taxa_name": "Sutterellaceae",
+			"species": "",
+			"taxonomy": "Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae",
+			"ref_genomes": "Sutterella wadsworthensis (3145B:NZ_GL636563,HGA0223:NZ_KE150480,2159BFAA:NZ_JH815513,:NZ_CABKPI010000024,823h:NZ_JAANXY010000056,DSM14016:NZ_QNRV01000068,FDAARGOS1159:NZ_CP068055,351h:NZ_JAANYB010000057,809h:NZ_JAANXZ010000077,627h:NZ_JAANYA010000005,1045h:NZ_JAANYH010000050,228h:NZ_JAANYF010000103,877h:NZ_JAANXS010000054,3358:NZ_JAANXP010000055,855h:NZ_JAANXV010000056,239h:NZ_JAANYD010000082,1122h:NZ_JAANYG010000133,233h:NZ_JAANYE010000089,1017h:NZ_JAANYI010000004,830h:NZ_JAANXX010000060,934h:NZ_JAANXQ010000079,856h:NZ_JAANXU010000053,2733h:NZ_JAANYC010000054,910h:NZ_JAANXR010000062,831h:NZ_JAANXW010000048,876h:NZ_JAANXT010000053),Dakarella massiliensis (ND3:NZ_CVTY01000004,:NZ_CABKUF010000004),Derxia lacustris (HL-12:NZ_MUHU01000009),Duodenibacillus massiliensis (Marseille-P2968:NZ_LT635859),Mesosutterella multiformis (KCTC15688:NZ_BHWA01000009,4NBBH2:NZ_BGZJ01000001),Sutterella sp. (KLE1602:NZ_KQ968490,AM11-39:NZ_QRLV01000022),Sutterella parvirubra (:NZ_CABKQY010000028,YIT11816:NZ_JH604862)",
+			"num_typestrains": 13,
+			"typestrains": "Parasutterella secunda JCM16078 (AB621360) [Parasutterella secunda Morotomi et al. 2011],Sutterella wadsworthensis WAL9799 (GU585669) [Sutterella wadsworthensis Wexler et al. 1996],Sutterella seckii Marseille-P3660 (LT725662) [\"Sutterella seckii\" Dione et al. 2018],Dakarella massiliensis ND3 (NZ_CVTY01000004) [\"Dakarella massiliensis\" Dione et al. 2017],Piscinibacterium candidicorallinum LYH-15 (LT158233) [Piscinibacterium candidicorallinum Sheu et al. 2016],Derxia lacustris HL-12 (HM046412) [Derxia lacustris Chen et al. 2013],Derxia gummosa IAM13946 (AB089482) [Derxia gummosa Jensen et al. 1960,\"Derxia indica\" Roy and Sen 1962],Duodenibacillus massiliensis Marseille-P2968 (NZ_LT635859) [\"Duodenibacillus massiliensis\" Mailhe et al. 2017],Sutterella faecalis KGMB03119 (NR_169348) [\"Sutterella faecalis\" Oh et al. 2020],Mesosutterella multiformis 4NBBH2 (NZ_BGZJ01000001) [Mesosutterella multiformis Sakamoto et al. 2018],Sutterella massiliensis Marseille-P2435 (NR_147401) [\"Sutterella massiliensis\" Ndongo et al. 2017],Sutterella parvirubra YIT11816 (NR_041591) [Sutterella parvirubra Sakon et al. 2008]",
+			"aliases": "Derxia indica",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 856927,
+			"env": {
+				"envs": [
+					"animal",
+					"soil",
+					"aquatic",
+					"plant"
+				],
+				"counts": [
+					378346,
+					85250,
+					78634,
+					19683
+				],
+				"fractions": [
+					0.67331773,
+					0.15171388,
+					0.13993981,
+					0.035028554
+				]
+			},
+			"taxon_id_color": "90_173",
+			"short_tid_color": "90_173",
+			"abundance": 0.0063
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_44",
+			"short_tid": "90_44",
+			"taxa_name": "Prevotella",
+			"species": "",
+			"taxonomy": "Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella",
+			"ref_genomes": "Prevotella sp. (HMSC069G02:NZ_KV818200,HJM029:NZ_AZHT01000085,S7MS2:NZ_JRPT01000097,DNF00663:NZ_KQ960595,F0472:NZ_AJIN01000009,ICM33:NZ_JACD01000046,F0091:NZ_KI259591,C561:NZ_JH114169,HMSC077E09:NZ_KV817504,HMSC077E08:NZ_KV820166,W6195:NZ_PYXD01000001,F0648:NZ_PYXE01000001),Prevotella oris (C735:NZ_GL349585,JCM12252:NZ_BAJC01000066,F0302:NZ_GG703886,NCTC13071:NZ_LR134384),Prevotella dentasini (JCM15908:NZ_BAKG01000039),Prevotella maculosa (JCM15638:NZ_BAJZ01000109,OT289:NZ_JH594501),Prevotella paludivivens (JCM13650:NZ_BAJH01000050),Prevotella multiformis (DSM16608:NZ_GL872289),Prevotella denticola (F0289:NC_015311,JCM13449:NZ_BAJG01000061,DNF00960:NZ_JRNO01000111,KCOM1525:NZ_CP032056,KCOM1525:NZ_CP032057,NCTC13067:NZ_UGTM01000001),Prevotella bivia (JCVIHMP010:NZ_ADFO01000096,DSM20514:NZ_JH660658,DNF00188:NZ_JRNF01000130,DNF00650:NZ_JRNM01000057,DNF00320:NZ_JRNQ01000038,700PDEN:NZ_JUWN01000344,GED7880:NZ_KQ965659,GED7760C:NZ_KQ971128),Prevotella albensis (JCM12258:NZ_BAJD01000052),Prevotella fusca (JCM17724:NZ_BAKO01000083,W1435:NZ_CP012074,W1435:NZ_CP012075),Prevotella oulorum (JCM14966:NZ_BAJQ01000092,F0390:NZ_JH114216,ATCC43324:NZ_FUXK01000056),Prevotella copri (DSM18205:NZ_GG703854,iAK2612:NZ_VZBB01000025,DSM18205:NZ_VZAC01000099,AM22-2:NZ_QRIE01000055,AF12-50:NZ_QSAG01000020,YF2:NZ_CP042464),Prevotella salivae (F0493:NZ_AWGW01000013,DSM15606:NZ_GL629665,:NZ_CABKPN010000019),Prevotella amnii (JCM14753:NZ_BAJP01000099,DNF00058:NZ_JRNU01000031,DNF00307:NZ_KQ960474,CRIS21A-A:NZ_ADFQ01000002),Prevotella histicola (JCM15637:NZ_BAJX01000046,F0411:NZ_JH376764,DNF00424:NZ_JRNJ01000038),Prevotella veroralis (JCM6290:NZ_BAIP01000051,F0319:NZ_GG698713,DSM19559:NZ_KB898352),Prevotella melaninogenica (ATCC25845:NC_014370,D18:NZ_GG740027,DNF00666:NZ_JRNS01000541,FDAARGOS306:NZ_CP022040,FDAARGOS306:NZ_CP022041,FDAARGOS760:NZ_CP054010,FDAARGOS760:NZ_CP054011,GAI07411:NZ_AP018049,GAI07411:NZ_AP018050),Prevotella scopos (JCM17725:NZ_BAKP01000095,W2052:NZ_CP016204,W2052:NZ_CP016205,DSM22613:NZ_FQWA01000070),Prevotella jejuni (CD333:NZ_CP023863,CD333:NZ_CP023864)",
+			"num_typestrains": 32,
+			"typestrains": "Prevotella oris JCM12252 (NZ_BAJC01000066) [Bacteroides oris Holdeman et al. 1982,Prevotella oris (Holdeman et al. 1982) Shah and Collins 1990 emend. Hahnke et al. 2016],Prevotella dentasini NUM1903 (AB477014) [Prevotella dentasini Takada et al. 2010],Prevotella maculosa W1609 (EF534315) [Prevotella maculosa Downes et al. 2007],Prevotella paludivivens JCM13650 (NZ_BAJH01000050) [Prevotella paludivivens Ueki et al. 2007 emend. Hahnke et al. 2016],Prevotella multiformis PPPA21 (AB182483) [Prevotella multiformis Sakamoto et al. 2005],Prevotella denticola JCM13449 (NZ_BAJG01000061) [Bacteroides denticola Shah and Collins 1982 emend. Holdeman and Johnson 1982,Prevotella denticola (Shah and Collins 1982) Shah and Collins 1990 emend. Hahnke et al. 2016,Prevotella denticola (Shah and Collins 1982) Shah and Collins 1990 emend. Wu et al. 1992],Prevotella bivia JCVIHMP010 (NZ_ADFO01000096) [Bacteroides bivius Holdeman and Johnson 1977 (Approved Lists 1980),Prevotella bivia (Holdeman and Johnson 1977) Shah and Collins 1990],Prevotella albensis M384 (AJ011683) [Prevotella albensis Avgustin et al. 1997 emend. Hahnke et al. 2016],Prevotella fusca JCM17724 (AB683252) [Prevotella fusca Downes and Wade 2011],Prevotella oulorum JCM14966 (NZ_BAJQ01000092) [Bacteroides oulorum Shah et al. 1985,Prevotella oulorum corrig. (Shah et al. 1985) Shah and Collins 1990],Prevotella copri DSM18205 (NZ_GG703854) [Prevotella copri Hayashi et al. 2007 emend. Hahnke et al. 2016],Prevotella salivae DSM15606 (NZ_GL629665) [Prevotella salivae Sakamoto et al. 2004],Prevotella amnii JCM14753 (NZ_BAJP01000099) [Prevotella amnii Lawson et al. 2008 emend. Hahnke et al. 2016],Prevotella histicola JCM15637 (NZ_BAJX01000046) [Prevotella histicola Downes et al. 2008 emend. Hahnke et al. 2016],Prevotella veroralis JCM6290 (NZ_BAIP01000051) [Bacteroides veroralis Watabe et al. 1983,Prevotella veroralis (Watabe et al. 1983) Shah and Collins 1990 emend. Wu et al. 1992],Prevotella melaninogenica ATCC25845 (NC_014370) [\"Bacterium melaninogenicum\" Oliver and Wherry 1921,Bacteroides melaninogenicus (Oliver and Wherry 1921) Roy and Kelly 1939 (Approved Lists 1980),Bacteroides melaninogenicus (Oliver and Wherry 1921) Roy and Kelly 1939 (Approved Lists 1980) emend. Holdeman and Johnson 1982,Bacteroides melaninogenicus subsp. melaninogenicus (Oliver and Wherry 1921) Roy and Kelly 1939,\"Fusiformis nigrescens\" Schwabacher et al. 1947,\"Hemophilus melaninogenicus\" (sic) (Oliver and Wherry 1921) Bergey et al. 1930,Prevotella melaninogenica (Oliver and Wherry 1921) Shah and Collins 1990 emend. Hahnke et al. 2016,Prevotella melaninogenica (Oliver and Wherry 1921) Shah and Collins 1990 emend. Wu et al. 1992,\"Ristella melaninogenica\" (Oliver and Wherry 1921) Prevot 1938],Prevotella jejuni CD328 (JQ778983) [Prevotella jejuni Hedberg et al. 2013],Prevotella scopos JCM17725 (AB683253) [Prevotella scopos Downes and Wade 2011]",
+			"aliases": "Prevotella sp.,Prevotella genomosp.,Bacteroides ruminicola,Bacterium melaninogenicum,Bacteroides melaninogenicus,Fusiformis nigrescens,Hemophilus melaninogenicus,Ristella melaninogenica,Bacteroides oris,Bacteroides denticola,Bacteroides bivius,Bacteroides oulorum,Prevotella oulora,Bacteroides veroralis",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 789714,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					450536,
+					31755,
+					11922,
+					5657
+				],
+				"fractions": [
+					0.90130633,
+					0.063526519,
+					0.023850201,
+					0.011316942
+				]
+			},
+			"taxon_id_color": "90_44",
+			"short_tid_color": "90_44",
+			"abundance": 0.0059
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_341",
+			"short_tid": "90_341",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "Butyricicoccus pullicaecorum (1.2:NZ_KB976104,:NZ_CABKSA010000002,An180:NZ_NFKK01000045,:NZ_FRDE01000017),Agathobaculum sp. (NSJ-28:NZ_JACOPL010000035,M2:NZ_JACOPK010000017),Intestinibacillus sp. (Marseille-P4005:NZ_OMPN01000001),Butyricicoccus porcorum (BB10:NZ_NHOC01000001),Butyricicoccus sp. (AM42-5AC:NZ_QUIJ01000027,OM04-18BH:NZ_QULN01000011,AM29-23AC:NZ_QUJF01000065,AM28-25:NZ_QUJL01000035,AF22-28AC:NZ_QUFY01000092,AM32-19:NZ_QUIX01000041,AF35-5AC:NZ_QUDX01000035,AM18-35:NZ_QUCQ01000017,AF24-19AC:NZ_QUFU01000071,AF10-3:NZ_QUHS01000075,OM06-6AC:NZ_QSTS01000061,OF10-2:NZ_QUMC01000055,BIOML-A1:NZ_WWUY01000019,AM05-1:NZ_QUDG01000030,OF13-6:NZ_QULY01000061),Bacteroides ovatus (1001099B141217E5:NZ_JADMUQ010000065,1001099st1E5:NZ_SPGW01000065),Agathobaculum butyriciproducens (1001099B141217D10:NZ_JADNFH010000050,DSM100391:NZ_QEKJ01000037,OF09-22XD:NZ_QVFF01000067,OF09-27:NZ_QVFE01000082)",
+			"num_typestrains": 4,
+			"typestrains": "Agathobaculum butyriciproducens SR79 (KP889099) [Agathobaculum butyriciproducens Ahn et al. 2016],Butyricicoccus pullicaecorum 25-3 (NR_044490) [Butyricicoccus pullicaecorum Eeckhaut et al. 2008],Butyricicoccus porcorum BB10 (NZ_NHOC01000001) [Butyricicoccus porcorum Trachsel et al. 2018],Butyricicoccus faecihominis KS-2 (NR_152060) [Butyricicoccus faecihominis Takada et al. 2016]",
+			"aliases": "",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 677690,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					487269,
+					18592,
+					9177,
+					2792
+				],
+				"fractions": [
+					0.94098258,
+					0.035903674,
+					0.017722033,
+					0.0053917309
+				]
+			},
+			"taxon_id_color": "90_341",
+			"short_tid_color": "90_341",
+			"abundance": 0.0049
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_15821",
+			"short_tid": "90_15821",
+			"taxa_name": "Erysipelotrichaceae",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae",
+			"ref_genomes": "[Clostridium] spiroforme (DSM1552:NZ_DS562845,An26:NZ_NFJI01000034,An149:NZ_NFLB01000012,An158:NZ_NFKY01000033,OM02-6:NZ_QSVF01000007,:NZ_CABKNM010000003),Coprobacillus sp. (8138FAA:NZ_KQ235806,3356FAA:NZ_JH470435,8254BFAA:NZ_JH599902,D7:NZ_KI391994,AM32-11LB:NZ_QUIZ01000001,AM17-34:NZ_QUCV01000013,AF31-1BH:NZ_QUEJ01000001,AF13-15:NZ_QUHO01000001,OF03-2AA:NZ_QUEO01000176,AF13-25:NZ_QUHM01000094,AM18-4LB-d2:NZ_QRJF01000006,AF34-1BH:NZ_QUEA01000015,AM42-12AC:NZ_QSGE01000005,AF18-40:NZ_QRWY01000002,AF18-15LB:NZ_QRXH01000076,AF09-1A:NZ_QUHU01000023),[Clostridium] saccharogumia (DSM17460:NZ_JMLH01000122,:NZ_CABLCC010000120),Erysipelatoclostridium ramosum (DSM1402:NZ_DS499659,FDAARGOS906:NZ_CP065674,FDAARGOS1105:NZ_CP068170,:NZ_CAACVM010000044,D55t1190419F9:NZ_JADMRP010000002,DSM1402:NZ_CP036346,1001217B150727B8:NZ_JADPBJ010000064,1001302B160321G9:NZ_JADPBR010000041,BSD2780061689150309C12:NZ_JADMSW010000041,AM38-1:NZ_QSHI01000004,AM25-30:NZ_QSLK01000025,OM06-4:NZ_QUSL01000008,AM21-17:NZ_QUSJ01000024,AF28-24B:NZ_QRTD01000009,AF28-13:NZ_QRTG01000028,AF20-7LB:NZ_QRWA01000034,OF04-4AC:NZ_QSCB01000008,AF19-21AC:NZ_QRWM01000011,FDAARGOS1106:NZ_CP068485),Faecalibacillus intestinalis (1001095IJ161003A8:NZ_JADPGY010000058,14EGH31:NZ_AP024085,BSD2780120874b170522H5:NZ_JADPGJ010000048,1001099B141217E2:NZ_JADPGG010000107),Longibaculum sp. (KGMB06250:NZ_CP040902),Blautia obeum (AM27-32LB:NZ_QSKO01000070),Faecalibacillus sp. (H12:NZ_JABWDK010000058),Faecalibacillus faecis (D53t1180928G9:NZ_JADPLM010000069,SNUG30370:NZ_PYLP01000049),Erysipelatoclostridium sp. (An173:NZ_NFKR01000094,An15:NZ_NFLA01000003),[Clostridium] cocleatum (:NZ_BLMI01000145,DSM1551:NZ_FOIN01000080,I50:NZ_VIQR01000024)",
+			"num_typestrains": 9,
+			"typestrains": "[Clostridium] spiroforme JCM1432 (AB818948) [Clostridium spiroforme Kaneuchi et al. 1979],[Clostridium] saccharogumia SDG-Mt85-3Db (DQ100445) [Clostridium saccharogumia Clavel et al. 2007],Erysipelatoclostridium ramosum DSM1402 (NZ_DS499659) [\"Bacillus ramosus\" Veillon and Zuber 1898,Clostridium ramosum (Veillon and Zuber 1898) Holdeman et al. 1971,\"Erysipelatoclostridium ramosum\" Yutin and Galperin 2013,\"Nocardia ramosa\" Vuillemin 1931,\"Ramibacterium ramosum\" (Veillon and Zuber 1898) Prevot 1938],Faecalibacillus faecis SNUG30370 (NZ_PYLP01000049) [Faecalibacillus faecis Seo et al. 2019],[Clostridium] cocleatum JCM1397 (AB910744) [Clostridium cocleatum Kaneuchi et al. 1979]",
+			"aliases": "Clostridium spiroforme,Clostridium saccharogumia,Clostridium ramosum,Clostridium cocleatum,Bacillus ramosus,Nocardia ramosa,Ramibacterium ramosum",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 702350,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					470767,
+					22983,
+					15124,
+					3299
+				],
+				"fractions": [
+					0.91915619,
+					0.04487351,
+					0.029529085,
+					0.0064411829
+				]
+			},
+			"taxon_id_color": "90_15821",
+			"short_tid_color": "90_15821",
+			"abundance": 0.0048
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_229",
+			"short_tid": "90_229",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "Clostridium sp. (MSTE9:NZ_AKFU01000025,W14A:NZ_MBSV01000087,KNHs216:NZ_VFMF01000001,AM09-51:NZ_QUDC01000017,D33t1170424F3:NZ_JADPEG010000035),Clostridium merdae (Marseille-P2953:NZ_FXLN01000003,:NZ_CABMKM010000003),Neglecta timonensis (SN17:NZ_LT160634,:NZ_CABKVV010000008),Anaeromassilibacillus sp. (Marseille-P3371:NZ_LT835154,Marseille-P4683:NZ_OCTT01000008),Anaeromassilibacillus senegalensis (mt9:NZ_LN868538),Ruminococcus sp. (JE7A12:NZ_CP039381,AM31-32:NZ_QTYF01000004,AF42-10:NZ_QTVC01000032,AF17-11:NZ_QTXC01000012,AF16-40:NZ_QTXF01000010,AM36-18:NZ_QTYC01000006,AF37-3AC:NZ_QTVD01000021,AF43-11:NZ_QTVA01000042,AM34-10LB:NZ_QTYD01000003,TF12-19AC:NZ_QTYV01000005,AM28-29LB:NZ_QTYN01000023,NSJ-71:NZ_JACOPS010000008,BSD2780120874150323B10:NZ_JADNHD010000035),Acutalibacter muris (WYJ34-Z31:NZ_QWLF01000069,KB18:NZ_CP065321,KB18:NZ_CP021422),Caproiciproducens galactitolivorans (BS-1:NZ_SRMQ01000022),Clostridium jeddahense (:NZ_CABKTG010000093,1001270B150601B10:NZ_JADNIV010000028,1001270B150601B3:NZ_JADMUB010000037,JCD:NZ_CBYL010000093),Caproiciproducens sp. (7D4C2:NZ_CP060286),Ruminococcus bromii (L2-63:NZ_OLKO01000008,CF01-14:NZ_QSDI01000039,AF25-7LB:NZ_QRUA01000016,:NZ_CABMMZ010000023,1001713B170207170306G10:NZ_JADNBE010000014,ATCC27255:NZ_NNSR01000023,5AMG:NZ_NNBY01000029,L2-36:NZ_NPHY01000005,TM09-5AC:NZ_QSOH01000003,TM09-18AC:NZ_QSOJ01000009,AF15-36:NZ_QRYN01000012,AF21-10LB:NZ_QRVY01000005,AM46-2BH:NZ_QSEV01000021,BIOML-A3:NZ_WNAG01000003,TM10-21:NZ_QSOD01000003,BIOML-A1:NZ_WNAI01000003,BIOML-A2:NZ_WNAH01000017),Eubacterium sp. (OM08-24:NZ_QSTA01000002),Hydrogeniiclostidium mannosilyticum (1001283B150225161107C12:NZ_JADPHD010000023,ASD2818:NZ_QLYR01000021),Campylobacter coli (704216:NZ_JAAJZS010000105),Pseudoruminococcus massiliensis (Marseille-P3876:NZ_OLMR01000018)",
+			"num_typestrains": 10,
+			"typestrains": "Caproiciproducens galactitolivorans BS-1 (FJ805840) [Caproiciproducens galactitolivorans Kim et al. 2015],Clostridium merdae Marseille-P2953 (NZ_FXLN01000003) [\"Clostridium merdae\" Ndongo et al. 2017],[Clostridium] leptum DSM753 (AJ305238) [Clostridium leptum Moore et al. 1976 (Approved Lists 1980)],Neglecta timonensis SN17 (NZ_LT160634) [\"Neglecta timonensis\" Bessis et al. 2016],Anaeromassilibacillus senegalensis mt9 (LN866991) [\"Anaeromassilibacillus senegalensis\" Guilhot et al. 2017],Acutalibacter muris KB18 (NR_144605) [Acutalibacter muris Lagkouvardos et al. 2016],Clostridium jeddahense JCD (HG726040) [Clostridium jeddahense Lagier et al. 2016],Ruminococcus bromii ATCC27255 (NZ_NNSR01000023) [Ruminococcus bromii Moore et al. 1972],Hydrogeniiclostidium mannosilyticum ASD2818 (NZ_QLYR01000021) [Hydrogeniiclostidium mannosilyticum Chaplin et al. 2020],Pseudoruminococcus massiliensis Marseille-P3876 (NZ_OLMR01000018) [\"Pseudoruminococcus massiliensis\" Afouda et al. 2020]",
+			"aliases": "Clostridium leptum",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 912729,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					577810,
+					40524,
+					27515,
+					7841
+				],
+				"fractions": [
+					0.88392049,
+					0.061992686,
+					0.042091817,
+					0.011994982
+				]
+			},
+			"taxon_id_color": "90_229",
+			"short_tid_color": "90_229",
+			"abundance": 0.0047
+		},
+		{
+			"rank_score": 1,
+			"taxon_id": "90_3493",
+			"short_tid": "90_3493",
+			"taxa_name": "Eubacteriales",
+			"species": "",
+			"taxonomy": "Bacteria;Firmicutes;Clostridia;Eubacteriales",
+			"ref_genomes": "",
+			"num_typestrains": 0,
+			"typestrains": "",
+			"aliases": "",
+			"priority": 1,
+			"level": 90,
+			"num_samples": 383739,
+			"env": {
+				"envs": [
+					"animal",
+					"aquatic",
+					"soil",
+					"plant"
+				],
+				"counts": [
+					286240,
+					10061,
+					3093,
+					1138
+				],
+				"fractions": [
+					0.95244431,
+					0.033477299,
+					0.01029175,
+					0.0037866184
+				]
+			},
+			"taxon_id_color": "90_3493",
+			"short_tid_color": "90_3493",
+			"abundance": 0.0037
+		}
+	],
+	"totalCount": 1355
+}
