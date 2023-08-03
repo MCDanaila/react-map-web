@@ -1,12 +1,15 @@
-export const ORDER_COLUMNS = [{ text: 'ID', field: 'short_tid' },
+export const ORDER_COLUMNS = [{ text: 'ID', field: 'taxon_id' },
 { text: 'Name', field: 'taxa_name' },
 { text: 'Taxonomy', field: 'taxonomy' },
 { text: '# Samples', field: 'num_samples' },
 { text: 'Tax Detail', field: 'taxonomy_detail' },];
 
-export const SEARCHABLE_FIELDS = [{ text: 'ID', field: 'sid' },
-{ text: 'Name', field: 'name' },
-{ text: 'Keywords', field: 'keywords_clean' },];
+export const SEARCHABLE_FIELDS = [{ text: 'Taxon ID', field: 'taxon_id' },
+{ text: 'Taxonomy', field: 'taxonomy' },
+{ text: 'Species', field: 'species' },
+{ text: 'Genomes', field: 'ref_genomes' },
+{ text: 'Strains', field: 'typestrains' },
+{ text: 'Aliases', field: 'aliases' },];
 
 export const EXPLORER_CHECKBOXES = [
 	{

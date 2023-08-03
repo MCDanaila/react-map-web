@@ -37,13 +37,20 @@ const Taxa = () => {
 	const [rowsPerPage, setRowsPerPage] = React.useState(DEFAULT_ROWS_PER_PAGE);
 	const [filter, setFilter] = React.useState(null);
 	const [checkedState, setCheckedState] = React.useState(new Array(SEARCHABLE_FIELDS.length).fill(true));
+	const [filterChecks, setFilterChecks] = React.useState({});
 
 	const inputFilter = React.useRef('');
 
 	React.useEffect(() => {
+		let initCheckboxesState = {};
+		EXPLORER_CHECKBOXES.map(section => section.content.map(content => initCheckboxesState[content.value] = content.initState));
+		setFilterChecks(initCheckboxesState);
+	}, []);
+
+	React.useEffect(() => {
 		const newState = SEARCHABLE_FIELDS.filter((item, index) => checkedState[index]).map(item => item.field)
 		//console.log(newState);
-		APITaxaService.getTaxaPag(page, rowsPerPage, order, orderBy, filter, newState)
+		APITaxaService.getTaxaPag(page, rowsPerPage, order, orderBy, filter, newState, filterChecks)
 			.then(response => {
 				console.log('DATA from getTaxaPag: ', response);
 				if(response.status === 200) {
@@ -54,7 +61,7 @@ const Taxa = () => {
 			})
 			.catch(error => {
 				console.log(error);
-				console.log('DATA from taxaData200: ', taxaData200);
+				console.log('Loading mocked DATA from taxaData200: ', taxaData200);
 				let rowsOnMount = stableSort(rows, order, orderBy);
 				rowsOnMount = rows.slice(
 					page * rowsPerPage,
@@ -62,7 +69,7 @@ const Taxa = () => {
 				);
 				setVisibleRows(rowsOnMount);
 			});
-	}, [page, rowsPerPage, order, orderBy, filter, checkedState]);
+	}, [page, rowsPerPage, order, orderBy, filter, checkedState, filterChecks]);
 
 	const handleChangePage = (event, newPage) => {
 		setPage(newPage);
@@ -91,12 +98,14 @@ const Taxa = () => {
 		const updatedCheckedState = checkedState.map((item, index) =>
 			index === position ? !item : item
 		);
-		//console.log("After change: ", updatedCheckedState);
+		console.log("After change: ", updatedCheckedState);
 		setCheckedState(updatedCheckedState);
 	};
 
-	const handleCheckChange = (event) => {
-		console.log('handleCheckChange :', event);
+	const handleCheckChange = (stateChecked) => {
+		var filterChecksCopy = { ...filterChecks }
+		filterChecksCopy[stateChecked] = !filterChecks[stateChecked];
+		setFilterChecks(filterChecksCopy);
 	}
 
 	return (
@@ -145,9 +154,9 @@ const Taxa = () => {
 				/>
 			</div>
 			<div >
-				{visibleRows?.map((row, index) => (
+				{visibleRows?.map((row, index) =>
 					<TaxaRow key={row.taxon_id} row={row} ></TaxaRow>
-				))}
+				)}
 			</div>
 		</PageContent >
 	)

@@ -4,9 +4,9 @@ import { Link } from "react-router-dom";
 import { Typography } from '@mui/material';
 
 const TaxaRow = ({ row }) => {
-	const env = row.env.envs[0];
-	const envClass = env === "" ? 'empty' : env;
-
+	//console.log("-TAXA PROPS: ", row);
+	const env = row.env === '' ? '' : row.env.envs[0];
+	const envClass = env === '' ? 'empty' : env;
 	return (
 		<div className={'card ' + envClass} style={{ textAlign: 'left' }} >
 			<div><b>Taxon ID: </b>
@@ -14,9 +14,9 @@ const TaxaRow = ({ row }) => {
 			</div>
 			<div><b>Taxonomy: </b>{row.taxonomy}</div>
 			<div><b>Species: </b>{row.species}: </div>
-			<Typography noWrap><b>Genomes: </b>{row.ref_genomes}</Typography>
-			<Typography noWrap><b>Strains: </b>{row.allstrains}</Typography>
-			<Typography noWrap><b>Alias: </b>{row.aliases}</Typography>
+			{row.ref_genomes !== '' && <Typography noWrap><b>Genomes: </b>{row.ref_genomes}</Typography>}
+			{row.typestrains !== '' && <Typography noWrap><b>Strains: </b>{row.typestrains}</Typography>}
+			{row.aliases !== '' && <Typography noWrap><b>Strains: </b>{row.aliases}</Typography>}
 		</div>
 	);
 }

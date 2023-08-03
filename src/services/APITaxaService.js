@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const TAXA_API_REST_URL = "http://127.0.0.1:8082/api/taxa/";
+//const TAXA_API_REST_URL = "http://127.0.0.1:8082/api/taxa/";
+const TAXA_API_REST_URL = "http://127.0.0.1:5000/api/taxa/all";
 
 class APITaxaService {
 
@@ -24,18 +25,21 @@ class APITaxaService {
 		}); */
 	}
 
-	async getTaxaPag(page, rowsPerPage, order, orderBy, filter, checkedState) {
-		console.log('APITaxaService [getTaxaPag]: ', [page, rowsPerPage, order, orderBy, filter, checkedState]);
+	async getTaxaPag(page, rowsPerPage, order, orderBy, filter, checkedState, filterChecks) {
+		console.log('APITaxaService [getTaxaPag]: ', [page, rowsPerPage, order, orderBy, filter, checkedState, filterChecks]);
 		const config = {
 			method: 'post',
 			url: TAXA_API_REST_URL,
 			data: {
-				page: page,
-				size: rowsPerPage,
-				sortBy: orderBy,
-				sort: order,
+				pagination: {
+					page: page,
+					size: rowsPerPage,
+					sortBy: orderBy,
+					sort: order
+				},
 				text: filter ? filter : null,
-				fields: checkedState
+				fields: checkedState,
+				filterChecks: filterChecks
 			},
 			headers: {
 				'Content-Type': 'application/json',
