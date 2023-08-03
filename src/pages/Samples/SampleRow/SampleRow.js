@@ -5,7 +5,7 @@ import { Typography } from '@mui/material';
 
 const SampleRow = ({ row }) => {
 	//console.log("SAMPLES PROPS: ", row);
-	const env = row.sample_env.split(";")[0];
+	const env = row.sample_env.split(/[;|]/)[0];
 	const envClass = env === "" ? 'empty' : env;
 
 	return (
@@ -14,8 +14,8 @@ const SampleRow = ({ row }) => {
 				<Link className={envClass + ' link'} to={`/samples/${row.sample_id}`}>{row.sid}{row.sample_id}</Link>: {row.name} {row.sample_name}
 			</Typography>
 			<div><b>Run IDs: </b>{row.rids}</div>
-			<div><b>Projects: </b>{row.projects.pid}: </div>
-			<div><b>Publications: </b>{row.publications.pmid}</div>
+			<div><b>Projects: </b>{row.projects.toString()}: </div>
+			<div><b>Publications: </b>{row.publications.toString()}</div>
 			<div><b>Keywords: </b>{row.keywords_clean}</div>
 		</div>
 	);

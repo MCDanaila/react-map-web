@@ -51,19 +51,20 @@ const Samples = () => {
 		let initCheckboxesState = {};
 		EXPLORER_CHECKBOXES.map(section => section.content.map(content => initCheckboxesState[content.value] = content.initState));
 		setFilterChecks(initCheckboxesState);
-		/*const newState = SEARCHABLE_FIELDS.filter((item, index) => checkedState[index]).map(item => item.field)
-					APISampleService.getLocations(filter, newState)
-					.then(response => {
-						console.log('DATA from [getLocations]: ', response);
-						if(response.status === 200) {
-							setMarkers(response.data);
-						}
-					})
-					.catch(error => {
-						const initMarkers = response.data.result.filter(s => (s.lat !== 0) || (s.lon !== 0)).map(s => [s.lat, s.lon, s.sid]);
-						setMarkers(initMarkers);
-					}); */
-	}, []);
+		const newState = SEARCHABLE_FIELDS.filter((item, index) => checkedState[index]).map(item => item.field)
+
+		APISampleService.getLocations(filter, newState)
+			.then(response => {
+				console.log('DATA from [getLocations]: ', response);
+				if(response.status === 200) {
+					setMarkers(response.data);
+				}
+			})
+			.catch(error => {
+				const initMarkers = error.data.result.filter(s => (s.lat !== 0) || (s.lon !== 0)).map(s => [s.lat, s.lon, s.sid]);
+				setMarkers(initMarkers);
+			});
+	}, [checkedState, filter]);
 
 	React.useEffect(() => {
 		const newState = SEARCHABLE_FIELDS.filter((item, index) => checkedState[index]).map(item => item.field)
@@ -88,7 +89,7 @@ const Samples = () => {
 				setVisibleRows(rowsOnMount);
 			});
 
-	}, [page, rowsPerPage, order, orderBy, filter, checkedState]);
+	}, [page, rowsPerPage, order, orderBy, filter, checkedState, filterChecks]);
 
 	const handleChangePage = (event, newPage) => {
 		setPage(newPage);
@@ -123,21 +124,15 @@ const Samples = () => {
 	};
 
 	const handleCheckChange = (stateChecked) => {
-		console.log('handleCheckChange :', stateChecked);
-		filterChecks[stateChecked] = !filterChecks[stateChecked];
-		/* let newLikings = "";
-		for(var check in filterChecks) {
-			if(filterChecks[check]) {
-				newLikings += check + " ";
-			}
-		}
-		setLikings(newLikings); */
+		var filterChecksCopy = { ...filterChecks }
+		filterChecksCopy[stateChecked] = !filterChecks[stateChecked];
+		setFilterChecks(filterChecksCopy);
 	};
 
 	return (
 		<React.Fragment>
 			<Introduction />
-			{/* <LeafletMapContainer markers={markers} /> */}
+			<LeafletMapContainer markers={markers} />
 			<ExplorerContainer title="Samples Explorer">
 				<Grid item xs={12}>
 					<Input type='text' inputRef={inputFilter} />
